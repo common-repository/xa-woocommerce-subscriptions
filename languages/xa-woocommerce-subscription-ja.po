@@ -1,0 +1,1596 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2018-07-25 17:37+0530\n"
+"PO-Revision-Date: 2018-07-25 17:38+0530\n"
+"Last-Translator: Katsushi Kawamori <dodesyoswift312@gmail.com>\n"
+"Language-Team: \n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.12\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Poedit-KeywordsList: __;_e;esc_html_x;esc_html__;_nx_noop;_nx;esc_attr_e;"
+"esc_html_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: admin/class-hf-subscription-data-meta-box.php:36
+#, php-format
+msgid "Subscription #%s details"
+msgstr "定期購入 #%s 詳細"
+
+#: admin/class-hf-subscription-data-meta-box.php:43
+msgid "Customer:"
+msgstr "顧客:"
+
+#: admin/class-hf-subscription-data-meta-box.php:52
+msgid "View other subscriptions"
+msgstr "他の定期購入を見る"
+
+#: admin/class-hf-subscription-data-meta-box.php:64
+#, php-format
+msgid "%1$s (#%2$s &ndash; %3$s)"
+msgstr "%1$s (#%2$s &ndash; %3$s)"
+
+#: admin/class-hf-subscription-data-meta-box.php:71
+msgid "Guest"
+msgstr "ゲスト"
+
+#: admin/class-hf-subscription-data-meta-box.php:78
+msgid "Subscription status:"
+msgstr "定期購入状況:"
+
+#: admin/class-hf-subscription-data-meta-box.php:96
+msgid "Billing Details"
+msgstr "支払明細"
+
+#: admin/class-hf-subscription-data-meta-box.php:96
+msgid "Load billing address"
+msgstr "請求先住所を読み込む"
+
+#: admin/class-hf-subscription-data-meta-box.php:102
+#: admin/class-hf-subscription-data-meta-box.php:104
+#: admin/class-hf-subscription-data-meta-box.php:169
+#: admin/class-hf-subscription-data-meta-box.php:171
+msgid "Address"
+msgstr "住所"
+
+#: admin/class-hf-subscription-data-meta-box.php:104
+msgid "No billing address set."
+msgstr "請求先住所が設定されていません。"
+
+#: admin/class-hf-subscription-data-meta-box.php:124
+msgid "Payment Method"
+msgstr "支払方法"
+
+#: admin/class-hf-subscription-data-meta-box.php:127
+#, php-format
+msgid "Gateway ID: [%s]"
+msgstr "ゲートウェイ ID: [%s]"
+
+#: admin/class-hf-subscription-data-meta-box.php:158
+msgid "Shipping Details"
+msgstr "配送の詳細"
+
+#: admin/class-hf-subscription-data-meta-box.php:160
+msgid "Copy from billing"
+msgstr "請求からコピー"
+
+#: admin/class-hf-subscription-data-meta-box.php:161
+msgid "Load shipping address"
+msgstr "配送先住所"
+
+#: admin/class-hf-subscription-data-meta-box.php:171
+msgid "No shipping address set."
+msgstr "配送先住所が設定されていません。"
+
+#: admin/class-hf-subscription-data-meta-box.php:193
+#: admin/class-hf-subscription-data-meta-box.php:219
+msgid "Customer Note:"
+msgstr "顧客メモ:"
+
+#: admin/class-hf-subscription-data-meta-box.php:220
+msgid "Customer's notes about the order"
+msgstr "注文に関する顧客のメモ"
+
+#: admin/class-hf-subscription-data-meta-box.php:286
+#, php-format
+msgid "Error updating some information: %s"
+msgstr "いくつかの情報の更新中にエラー: %s"
+
+#: admin/class-hf-subscription-related-meta-box.php:39
+#: admin/class-hf-woocommerce-subscription-admin.php:395
+#: admin/class-hf-woocommerce-subscription-admin.php:507
+#: admin/class-hf-woocommerce-subscription-admin.php:1463
+#: public/templates/myaccount/related-subscriptions.php:13
+msgid "Subscription"
+msgstr "定期購入"
+
+#: admin/class-hf-subscription-related-meta-box.php:59
+msgid "Resubscribed Subscription"
+msgstr "再登録された定期購入"
+
+#: admin/class-hf-subscription-related-meta-box.php:67
+msgid "Initial Subscription"
+msgstr "最初の定期購入"
+
+#: admin/class-hf-subscription-related-meta-box.php:75
+#: admin/class-hf-woocommerce-subscription-admin.php:1489
+msgid "Parent Order"
+msgstr "親注文"
+
+#: admin/class-hf-subscription-related-meta-box.php:84
+#: admin/class-hf-woocommerce-subscription-admin.php:1485
+msgid "Renewal Order"
+msgstr "注文更新"
+
+#: admin/class-hf-subscription-related-meta-box.php:103
+#: admin/class-hf-woocommerce-subscription-admin.php:1572
+#: public/templates/myaccount/related-subscriptions.php:25
+#, php-format
+msgid "#%s"
+msgstr "#%s"
+
+#: admin/class-hf-subscription-related-meta-box.php:113
+#: admin/class-hf-woocommerce-subscription-admin.php:711
+msgid "Y/m/d g:i:s A"
+msgstr "Y/m/d g:i:s A"
+
+#: admin/class-hf-subscription-related-meta-box.php:116
+msgid "Unpublished"
+msgstr "未発行"
+
+#: admin/class-hf-subscription-related-meta-box.php:139
+msgid "Order Number "
+msgstr "注文番号 "
+
+#: admin/class-hf-subscription-related-meta-box.php:140
+msgid "Relationship"
+msgstr "関係"
+
+#: admin/class-hf-subscription-related-meta-box.php:141
+msgid "Order Date"
+msgstr "注文日"
+
+#: admin/class-hf-subscription-related-meta-box.php:142
+msgid "Order Status"
+msgstr "注文状況"
+
+#: admin/class-hf-subscription-related-meta-box.php:143
+msgid "Order Total"
+msgstr "注文合計"
+
+#: admin/class-hf-subscription-schedule-meta-box.php:23
+#: admin/class-hf-subscription-schedule-meta-box.php:41
+msgid "Recurrence:"
+msgstr "繰り返し:"
+
+#: admin/class-hf-subscription-schedule-meta-box.php:32
+msgid "Billing Period"
+msgstr "支払請求周期"
+
+#: admin/class-hf-woocommerce-subscription-admin.php:76
+msgid ""
+"Deleting this order will also delete the subscriptions purchased with the "
+"order."
+msgstr "この注文を削除すると、注文で購入した定期購入も削除されます。"
+
+#: admin/class-hf-woocommerce-subscription-admin.php:88
+msgid "Enter the new period, either day, week, month or year:"
+msgstr "新しい期間を日、週、月または年のいずれかに入力:"
+
+#: admin/class-hf-woocommerce-subscription-admin.php:89
+msgid "Enter a new length (e.g. 5):"
+msgstr "新しい長さを入力(例 5):"
+
+#: admin/class-hf-woocommerce-subscription-admin.php:90
+msgid ""
+"Enter a new interval as a single number (e.g. to charge every 2nd month, "
+"enter 2):"
+msgstr "1つの番号で新しい間隔を入力(例 2か月ごとに請求ならば、2を入力):"
+
+#: admin/class-hf-woocommerce-subscription-admin.php:94
+msgid ""
+"You are about to trash one or more orders which contain a subscription.\n"
+"\n"
+"Trashing the orders will also trash the subscriptions purchased with these "
+"orders."
+msgstr ""
+"定期購入を含む1つ以上のオーダーをごみ箱に入れようとしています。\n"
+"\n"
+"注文を破棄すると、これらの注文で購入した定期購読もゴミ箱に捨てられます。"
+
+#: admin/class-hf-woocommerce-subscription-admin.php:111
+msgid ""
+"Warning: Deleting a user will also delete the user's subscriptions. The "
+"user's orders will remain but be reassigned to the 'Guest' user.\n"
+"\n"
+"Do you want to continue to delete this user and any associated subscriptions?"
+msgstr ""
+"警告：ユーザーを削除すると、ユーザーの定期購入も削除されます。 ユーザーの注文"
+"はそのまま残りますが、「ゲスト」ユーザーに再割り当てされます。\n"
+"\n"
+"このユーザーと関連する定期購入を引き続き削除しますか？"
+
+#: admin/class-hf-woocommerce-subscription-admin.php:130
+msgid "Settings"
+msgstr "設定"
+
+#: admin/class-hf-woocommerce-subscription-admin.php:131
+msgid "Support"
+msgstr "サポート"
+
+#: admin/class-hf-woocommerce-subscription-admin.php:132
+msgid "Review"
+msgstr "レビュー"
+
+#: admin/class-hf-woocommerce-subscription-admin.php:152
+#: admin/class-hf-woocommerce-subscription-admin.php:394
+#: admin/class-hf-woocommerce-subscription-admin.php:407
+msgid "WebToffee Subscriptions"
+msgstr "WebToffee Subscriptions"
+
+#: admin/class-hf-woocommerce-subscription-admin.php:167
+msgid "Manage Text"
+msgstr "テキストの管理"
+
+#: admin/class-hf-woocommerce-subscription-admin.php:173
+msgid "My Account Tab Title"
+msgstr "「マイアカウント」タブのタイトル"
+
+#: admin/class-hf-woocommerce-subscription-admin.php:174
+msgid "My Account Tab Title for subscription listing page."
+msgstr "「マイアカウント」タブ定期購入一覧ページのタイトル。"
+
+#: admin/class-hf-woocommerce-subscription-admin.php:177
+#: admin/class-hf-woocommerce-subscription-admin.php:186
+#: includes/welcome/welcome.php:11
+#: public/templates/myaccount/subscription-account-view.php:64
+#: public/templates/myaccount/subscription-account-view.php:79
+msgid "Subscriptions"
+msgstr "定期購入"
+
+#: admin/class-hf-woocommerce-subscription-admin.php:182
+msgid "My Account Tab Text"
+msgstr "「マイアカウント」タブのテキスト"
+
+#: admin/class-hf-woocommerce-subscription-admin.php:183
+msgid "My Account Tab Text for subscription listing page."
+msgstr "「マイアカウント」タブ定期購入一覧ページのテキスト。"
+
+#: admin/class-hf-woocommerce-subscription-admin.php:191
+msgid "Add to Cart Button Text"
+msgstr "「カートに入れる」ボタンのテキスト"
+
+#: admin/class-hf-woocommerce-subscription-admin.php:192
+msgid "Add to Cart Button Text on product page."
+msgstr "商品ページの「カートに入れる」ボタンのテキスト。"
+
+#: admin/class-hf-woocommerce-subscription-admin.php:195
+#: admin/class-hf-woocommerce-subscription-admin.php:204
+#: includes/class-subscriptions-product.php:21
+#: includes/class-subscriptions-product.php:26
+#: includes/components/class-hf-product-subscription.php:28
+#: includes/components/class-hf-product-subscription.php:33
+msgid "Subscribe"
+msgstr "申し込む"
+
+#: admin/class-hf-woocommerce-subscription-admin.php:200
+msgid "Place Order Button Text"
+msgstr "「注文」ボタンのテキストの配置"
+
+#: admin/class-hf-woocommerce-subscription-admin.php:201
+msgid ""
+"Place Order Button Text in checkout Page when an order contains a "
+"subscription."
+msgstr ""
+"注文に定期購入が含まれている場合の支払いページ内の「注文」ボタンのテキスト。"
+
+#: admin/class-hf-woocommerce-subscription-admin.php:211
+#: includes/class-hf-plugin-uninstall-feedback.php:55
+msgid "Other"
+msgstr "その他"
+
+#: admin/class-hf-woocommerce-subscription-admin.php:218
+msgid "Allow Mixed Checkout"
+msgstr "混合支払いを許可する"
+
+#: admin/class-hf-woocommerce-subscription-admin.php:219
+msgid ""
+"Allow subscription products and normal products to be purchased together."
+msgstr "定期購入商品と通常の商品を一緒に購入できるようにする。"
+
+#: admin/class-hf-woocommerce-subscription-admin.php:239
+msgid "Simple subscription"
+msgstr "簡単定期購入"
+
+#: admin/class-hf-woocommerce-subscription-admin.php:257
+#: admin/class-hf-woocommerce-subscription-admin.php:270
+#, php-format
+msgid "%sth"
+msgstr "%s 周回"
+
+#: admin/class-hf-woocommerce-subscription-admin.php:261
+#, php-format
+msgid "%sst"
+msgstr "%s 周回"
+
+#: admin/class-hf-woocommerce-subscription-admin.php:264
+#, php-format
+msgid "%snd"
+msgstr "%s 周回"
+
+#: admin/class-hf-woocommerce-subscription-admin.php:267
+#, php-format
+msgid "%srd"
+msgstr "%s 周回"
+
+#: admin/class-hf-woocommerce-subscription-admin.php:396
+msgid "Add Subscription"
+msgstr "定期購入を追加"
+
+#: admin/class-hf-woocommerce-subscription-admin.php:397
+msgid "Add New Subscription"
+msgstr "新しい定期購入を追加"
+
+#: admin/class-hf-woocommerce-subscription-admin.php:398
+#: includes/components/action-scheduler/classes/ActionScheduler_wpPostStore_PostTypeRegistrar.php:38
+msgid "Edit"
+msgstr "編集"
+
+#: admin/class-hf-woocommerce-subscription-admin.php:399
+msgid "Edit Subscription"
+msgstr "定期購入を編集"
+
+#: admin/class-hf-woocommerce-subscription-admin.php:400
+msgid "New Subscription"
+msgstr "新規定期購入"
+
+#: admin/class-hf-woocommerce-subscription-admin.php:401
+#: admin/class-hf-woocommerce-subscription-admin.php:402
+msgid "View Subscription"
+msgstr "定期購入表示"
+
+#: admin/class-hf-woocommerce-subscription-admin.php:403
+msgid "Search Subscriptions"
+msgstr "定期購入検索"
+
+#: admin/class-hf-woocommerce-subscription-admin.php:404
+msgid "No Subscriptions found"
+msgstr "定期購入は見つかりませんでした"
+
+#: admin/class-hf-woocommerce-subscription-admin.php:405
+msgid "No Subscriptions found in trash"
+msgstr "ゴミ箱に定期購入が見つかりません"
+
+#: admin/class-hf-woocommerce-subscription-admin.php:406
+msgid "Parent Subscriptions"
+msgstr "親定期購入"
+
+#: admin/class-hf-woocommerce-subscription-admin.php:409
+msgid "This is where subscriptions are stored."
+msgstr "これは、定期購入が格納される場所です。"
+
+#: admin/class-hf-woocommerce-subscription-admin.php:441
+#, php-format
+msgid "Active <span class=\"count\">(%s)</span>"
+msgstr "有効 <span class=\"count\">(%s)</span>"
+
+#: admin/class-hf-woocommerce-subscription-admin.php:442
+#, php-format
+msgid "Expired <span class=\"count\">(%s)</span>"
+msgstr "期限切れ <span class=\"count\">(%s)</span>"
+
+#: admin/class-hf-woocommerce-subscription-admin.php:443
+#, php-format
+msgid "Pending Cancellation <span class=\"count\">(%s)</span>"
+msgstr "保留中のキャンセル <span class=\"count\">(%s)</span>"
+
+#: admin/class-hf-woocommerce-subscription-admin.php:444
+#, php-format
+msgid "Pending <span class=\"count\">(%s)</span>"
+msgstr "保留中 <span class=\"count\">(%s)</span>"
+
+#: admin/class-hf-woocommerce-subscription-admin.php:445
+#, php-format
+msgid "On hold <span class=\"count\">(%s)</span>"
+msgstr "保留 <span class=\"count\">(%s)</span>"
+
+#: admin/class-hf-woocommerce-subscription-admin.php:446
+#, php-format
+msgid "Cancelled <span class=\"count\">(%s)</span>"
+msgstr "キャンセル <span class=\"count\">(%s)</span>"
+
+#: admin/class-hf-woocommerce-subscription-admin.php:470
+#: includes/class-hf-date-time-functions.php:41
+msgid "Never expire"
+msgstr "期限切れ無し"
+
+#: admin/class-hf-woocommerce-subscription-admin.php:474
+#: includes/class-hf-date-time-functions.php:45
+msgid "1 day"
+msgstr "1 日"
+
+#: admin/class-hf-woocommerce-subscription-admin.php:478
+#: includes/class-hf-date-time-functions.php:49
+msgid "1 week"
+msgstr "1 週"
+
+#: admin/class-hf-woocommerce-subscription-admin.php:482
+#: includes/class-hf-date-time-functions.php:53
+msgid "1 month"
+msgstr "1 月"
+
+#: admin/class-hf-woocommerce-subscription-admin.php:486
+#: includes/class-hf-date-time-functions.php:57
+msgid "1 year"
+msgstr "1 年"
+
+#: admin/class-hf-woocommerce-subscription-admin.php:508
+#: includes/components/action-scheduler/classes/ActionScheduler_AdminView.php:120
+#: public/templates/myaccount/related-subscriptions.php:14
+#: public/templates/myaccount/related-subscriptions.php:28
+#: public/templates/myaccount/subscriptions.php:25
+#: public/templates/myaccount/subscriptions.php:39
+#: public/templates/myaccount/view-subscription.php:23
+msgid "Status"
+msgstr "ステータス"
+
+#: admin/class-hf-woocommerce-subscription-admin.php:509
+msgid "Items"
+msgstr "アイテム"
+
+#: admin/class-hf-woocommerce-subscription-admin.php:510
+#: public/templates/myaccount/related-subscriptions.php:16
+#: public/templates/myaccount/related-subscriptions.php:34
+#: public/templates/myaccount/subscriptions.php:27
+#: public/templates/myaccount/subscriptions.php:52
+#: public/templates/myaccount/view-subscription.php:92
+msgid "Total"
+msgstr "合計"
+
+#: admin/class-hf-woocommerce-subscription-admin.php:511
+#: includes/subscription-common-functions.php:581
+#: public/templates/myaccount/view-subscription.php:27
+msgid "Start Date"
+msgstr "開始日"
+
+#: admin/class-hf-woocommerce-subscription-admin.php:512
+#: includes/subscription-common-functions.php:582
+#: public/templates/myaccount/related-subscriptions.php:15
+#: public/templates/myaccount/related-subscriptions.php:31
+#: public/templates/myaccount/subscriptions.php:42
+msgid "Next Payment"
+msgstr "次回支払い"
+
+#: admin/class-hf-woocommerce-subscription-admin.php:513
+msgid "Orders"
+msgstr "注文"
+
+#: admin/class-hf-woocommerce-subscription-admin.php:550
+msgid "Billing:"
+msgstr "請求:"
+
+#: admin/class-hf-woocommerce-subscription-admin.php:554
+#, php-format
+msgid "Email: %s"
+msgstr "メール: %s"
+
+#: admin/class-hf-woocommerce-subscription-admin.php:558
+#, php-format
+msgid "Tel: %s"
+msgstr "電話番号: %s"
+
+#: admin/class-hf-woocommerce-subscription-admin.php:583
+#, php-format
+msgid "%1$s#%2$s%3$s for %4$s"
+msgstr "%1$s#%2$s%3$s %4$s"
+
+#: admin/class-hf-woocommerce-subscription-admin.php:584
+msgid "Show more details"
+msgstr "詳細を表示"
+
+#: admin/class-hf-woocommerce-subscription-admin.php:608
+#: includes/subscription-common-functions.php:308
+msgid "Reactivate"
+msgstr "再有効化"
+
+#: admin/class-hf-woocommerce-subscription-admin.php:609
+#: includes/subscription-common-functions.php:303
+msgid "Suspend"
+msgstr "停止"
+
+#: admin/class-hf-woocommerce-subscription-admin.php:610
+#: admin/class-hf-woocommerce-subscription-admin.php:625
+#: includes/class-hf-plugin-uninstall-feedback.php:89
+#: includes/subscription-common-functions.php:324
+msgid "Cancel"
+msgstr "キャンセル"
+
+#: admin/class-hf-woocommerce-subscription-admin.php:611
+#: admin/class-hf-woocommerce-subscription-admin.php:640
+msgid "Trash"
+msgstr "ゴミ箱へ"
+
+#: admin/class-hf-woocommerce-subscription-admin.php:612
+#: admin/class-hf-woocommerce-subscription-admin.php:644
+msgid "Delete Permanently"
+msgstr "完全に削除"
+
+#: admin/class-hf-woocommerce-subscription-admin.php:619
+msgid ""
+" ( Canceling here will not cancel from PayPal. Need to cancel by customer "
+"from PayPal dashboard under pre-approved payments ) "
+msgstr ""
+" (ここでのキャンセルはPayPalからはキャンセルされません。事前承認された支払い"
+"でPayPalダッシュボードからキャンセルする必要があります) "
+
+#: admin/class-hf-woocommerce-subscription-admin.php:638
+msgid "Restore this item from the Trash"
+msgstr "このアイテムをごみ箱から復元する"
+
+#: admin/class-hf-woocommerce-subscription-admin.php:638
+msgid "Restore"
+msgstr "復元"
+
+#: admin/class-hf-woocommerce-subscription-admin.php:640
+msgid "Move this item to the Trash"
+msgstr "このアイテムをごみ箱に移動する"
+
+#: admin/class-hf-woocommerce-subscription-admin.php:644
+msgid "Delete this item permanently"
+msgstr "このアイテムを完全に削除する"
+
+#: admin/class-hf-woocommerce-subscription-admin.php:650
+msgid "Cancel Now"
+msgstr "今すぐキャンセル"
+
+#: admin/class-hf-woocommerce-subscription-admin.php:698
+#: public/templates/myaccount/subscriptions.php:46
+#, php-format
+msgid "Via %s"
+msgstr "経由 %s"
+
+#: admin/class-hf-woocommerce-subscription-admin.php:737
+msgid "No Related Orders"
+msgstr "関連する注文はありません"
+
+#: admin/class-hf-woocommerce-subscription-admin.php:754
+#, php-format
+msgid "Could not find subscription with ID #%d."
+msgstr "ID #%d の定期購入が見つかりませんでした。"
+
+#: admin/class-hf-woocommerce-subscription-admin.php:884
+msgid "All subscription items have been removed from the cart."
+msgstr "すべての定期購入アイテムがカートから削除されました。"
+
+#: admin/class-hf-woocommerce-subscription-admin.php:993
+#, php-format
+msgid "Error %d: Unable to create subscription. Please try again."
+msgstr "エラー %d: 定期購入を作成できません。もう一度お試しください。"
+
+#: admin/class-hf-woocommerce-subscription-admin.php:1007
+#, php-format
+msgid "Error %d: Unable to add tax to subscription. Please try again."
+msgstr "エラー %d: 定期購入に税金を追加できません。もう一度お試しください。"
+
+#: admin/class-hf-woocommerce-subscription-admin.php:1017
+#, php-format
+msgid "Error %d: Unable to create order. Please try again."
+msgstr "エラー %d: 注文を作成できません。もう一度お試しください。"
+
+#: admin/class-hf-woocommerce-subscription-admin.php:1229
+msgid "Process renewal"
+msgstr "プロセスの更新"
+
+#: admin/class-hf-woocommerce-subscription-admin.php:1232
+msgid "Create pending renewal order"
+msgstr "保留中の更新注文の作成"
+
+#: admin/class-hf-woocommerce-subscription-admin.php:1235
+msgid "Retry Renewal Payment"
+msgstr "更新の再試行"
+
+#: admin/class-hf-woocommerce-subscription-admin.php:1243
+msgid "Process renewal requested by admin."
+msgstr "管理者からリクエストされたプロセス更新。"
+
+#: admin/class-hf-woocommerce-subscription-admin.php:1256
+msgid "Create pending renewal order requested by admin action."
+msgstr "管理アクションによって要求された保留中の更新注文を作成します。"
+
+#: admin/class-hf-woocommerce-subscription-admin.php:1270
+msgid "Subscription renewal payment due:"
+msgstr "定期購入更新の支払い期限:"
+
+#: admin/class-hf-woocommerce-subscription-admin.php:1277
+msgid ""
+"Error: Unable to create renewal order from scheduled payment. Please try "
+"again."
+msgstr ""
+"エラー: 定期支払いから更新注文を作成できません。もう一度お試しください。"
+
+#: admin/class-hf-woocommerce-subscription-admin.php:1415
+msgid "Subscription status changed by bulk edit:"
+msgstr "一括編集で登録ステータスが変更されました:"
+
+#: admin/class-hf-woocommerce-subscription-admin.php:1487
+msgid "Resubscribe Order"
+msgstr "再定期購入"
+
+#: admin/class-hf-woocommerce-subscription-admin.php:1511
+#: includes/class-hf-woocommerce-subscription.php:252
+#, php-format
+msgid "Subscription does not exist in scheduled action: %d"
+msgstr "定期購入はスケジュールされたアクションに存在しません: %d"
+
+#: admin/class-hf-woocommerce-subscription-admin.php:1573
+#, php-format
+msgid "Order %s created to record renewal."
+msgstr "注文 %s は、更新を記録するために作成されました。"
+
+#: admin/class-hf-woocommerce-subscription-admin.php:1582
+msgid "Support Recurring Pay"
+msgstr "定期払いをサポート"
+
+#: admin/class-hf-woocommerce-subscription-admin.php:1591
+msgid "Yes"
+msgstr "はい"
+
+#: admin/class-hf-woocommerce-subscription-admin.php:1593
+msgid "No"
+msgstr "いいえ"
+
+#: admin/class-hf-woocommerce-subscription-admin.php:1608
+#: admin/class-hf-woocommerce-subscription-admin.php:1611
+msgid "Subscribe Now"
+msgstr "今すぐ定期購入する"
+
+#: admin/templates/subscription/product-price-fields.php:16
+msgid "Choose the subscription price, interval and period."
+msgstr "定期購入の価格、間隔、期限を選択。"
+
+#: admin/templates/subscription/product-price-fields.php:21
+#, php-format
+msgid "Subscription price (%s)"
+msgstr "定期購入価格 (%s)"
+
+#: admin/templates/subscription/product-price-fields.php:24
+msgid "Subscription interval"
+msgstr "定期購入間隔"
+
+#: admin/templates/subscription/product-price-fields.php:30
+msgid "Subscription period"
+msgstr "定期購入期限"
+
+#: admin/templates/subscription/product-price-fields.php:44
+msgid "Subscription length"
+msgstr "定期購入期間"
+
+#: admin/templates/subscription/product-price-fields.php:47
+msgid "Automatically expire the subscription after this length of time."
+msgstr "この期間が過ぎると、自動的に期限切れになります。"
+
+#: includes/class-hf-date-time-functions.php:14
+#: includes/class-hf-date-time-functions.php:153
+msgid "day"
+msgstr "日"
+
+#: includes/class-hf-date-time-functions.php:15
+#: includes/class-hf-date-time-functions.php:154
+msgid "week"
+msgstr "週"
+
+#: includes/class-hf-date-time-functions.php:16
+#: includes/class-hf-date-time-functions.php:155
+msgid "month"
+msgstr "月"
+
+#: includes/class-hf-date-time-functions.php:17
+#: includes/class-hf-date-time-functions.php:156
+msgid "year"
+msgstr "年"
+
+#: includes/class-hf-date-time-functions.php:19
+msgid "days"
+msgstr "日"
+
+#: includes/class-hf-date-time-functions.php:20
+msgid "weeks"
+msgstr "週"
+
+#: includes/class-hf-date-time-functions.php:21
+msgid "months"
+msgstr "月"
+
+#: includes/class-hf-date-time-functions.php:22
+msgid "years"
+msgstr "年"
+
+#: includes/class-hf-date-time-functions.php:132
+#: includes/class-subscriptions-product.php:113
+#: includes/subscription-price-functions.php:41
+msgid "every"
+msgstr "毎"
+
+#: includes/class-hf-date-time-functions.php:136
+#, php-format
+msgid "every %s"
+msgstr "%s 毎"
+
+#: includes/class-hf-date-time-functions.php:288
+#: includes/components/class-subscription.php:786
+#, php-format
+msgid "In %s"
+msgstr "%s 内"
+
+#: includes/class-hf-date-time-functions.php:290
+#: includes/components/class-subscription.php:788
+#, php-format
+msgid "%s ago"
+msgstr "%s 前"
+
+#: includes/class-hf-plugin-uninstall-feedback.php:19
+msgid "I couldn't understand how to make it work"
+msgstr "私はそれを動作させる方法を理解できませんでした"
+
+#: includes/class-hf-plugin-uninstall-feedback.php:21
+msgid "Would you like us to assist you?"
+msgstr "あなたのお手伝いをしましょうか？"
+
+#: includes/class-hf-plugin-uninstall-feedback.php:25
+msgid "I found a better plugin"
+msgstr "私はより良いプラグインを見つけました"
+
+#: includes/class-hf-plugin-uninstall-feedback.php:27
+msgid "Which plugin?"
+msgstr "どのプラグインですか？"
+
+#: includes/class-hf-plugin-uninstall-feedback.php:31
+msgid "The plugin is great, but I need specific feature that you don't support"
+msgstr ""
+"プラグインは素晴らしいですが、私はあなたがサポートしていない特定の機能が必要"
+"です"
+
+#: includes/class-hf-plugin-uninstall-feedback.php:33
+msgid "Could you tell us more about that feature?"
+msgstr "その機能についてもっと教えてください？"
+
+#: includes/class-hf-plugin-uninstall-feedback.php:37
+msgid "The plugin is not working"
+msgstr "プラグインが動作していません"
+
+#: includes/class-hf-plugin-uninstall-feedback.php:39
+msgid "Could you tell us a bit more whats not working?"
+msgstr "何がうまくいかないかを私たちに教えてください？"
+
+#: includes/class-hf-plugin-uninstall-feedback.php:43
+msgid "It's not what I was looking for"
+msgstr "私が探していたものではありません"
+
+#: includes/class-hf-plugin-uninstall-feedback.php:49
+msgid "The plugin didn't work as expected"
+msgstr "プラグインが期待通りに動作しませんでした"
+
+#: includes/class-hf-plugin-uninstall-feedback.php:51
+msgid "What did you expect?"
+msgstr "何を期待しましたか？"
+
+#: includes/class-hf-plugin-uninstall-feedback.php:57
+msgid "Could you tell us a bit more?"
+msgstr "もう少し詳しく教えていただけますか？"
+
+#: includes/class-hf-plugin-uninstall-feedback.php:75
+msgid "If you have a moment, please let us know why you are deactivating:"
+msgstr ""
+"しばらくお待ちいただいている場合は、なぜ非アクティブ化しているのかご連絡くだ"
+"さい:"
+
+#: includes/class-hf-plugin-uninstall-feedback.php:87
+msgid "I rather wouldn't say"
+msgstr "私はむしろ言いません"
+
+#: includes/class-hf-plugin-uninstall-feedback.php:88
+msgid "Submit & Deactivate"
+msgstr "送信＆非アクティブ化"
+
+#: includes/class-hf-woocommerce-subscription-activator.php:27
+msgid "HF Subscription Plugin not activated. WooCommerce is required."
+msgstr ""
+"HF Subscription プラグインは有効化されていません。WooCommerce が必要です。"
+
+#: includes/class-hf-woocommerce-subscription.php:275
+#, php-format
+msgid ""
+"<li class=\"hf-premium-link\"><a  target=\"_blank\" href=\"%s\" class=\"hf-"
+"nav-tab-premium\">Upgrade to premium</a></li>"
+msgstr ""
+"<li class=\"hf-premium-link\"><a  target=\"_blank\" href=\"%s\" class=\"hf-"
+"nav-tab-premium\">プレミアム版へアップグレード</a></li>"
+
+#: includes/class-hf-woocommerce-subscription.php:277
+msgid "<li>Supports Simple and <b>Variable subscriptions</b>.</li>"
+msgstr "<li>簡単 と<b>可変 定期購入</b>をサポートしています。</li>"
+
+#: includes/class-hf-woocommerce-subscription.php:278
+msgid "<li>Purchase Subscription and normal products in the same order.</li>"
+msgstr "<li>定期購入と通常の商品を同一の注文で購入します。</li>"
+
+#: includes/class-hf-woocommerce-subscription.php:279
+msgid "<li>Frequent releases with new features and compatibility updates.</li>"
+msgstr "<li>新機能と互換性アップデートを含む頻繁なリリース。</li>"
+
+#: includes/class-hf-woocommerce-subscription.php:280
+msgid ""
+"<li>Subscription <b>Trial period</b> and <b>Signup-Fee</b> options.</li>"
+msgstr "<li>定期購入 <b>試用期間</b>と<b>申し込み手数料</b>オプション。</li>"
+
+#: includes/class-hf-woocommerce-subscription.php:291
+msgid "Subscription Details"
+msgstr "定期購入の詳細"
+
+#: includes/class-hf-woocommerce-subscription.php:292
+msgid "Billing Schedule Details"
+msgstr "請求スケジュールの詳細"
+
+#: includes/class-hf-woocommerce-subscription.php:295
+#: includes/class-hf-woocommerce-subscription.php:298
+msgid "Related Orders"
+msgstr "関連注文"
+
+#: includes/class-subscriptions-cart.php:60
+msgid ""
+"A subscription renewal has been removed from your cart. Multiple "
+"subscriptions can not be purchased at the same time."
+msgstr ""
+"定期購入更新がカートから削除されました。 複数の定期購入を同時に購入することは"
+"できません。"
+
+#: includes/class-subscriptions-cart.php:63
+msgid ""
+"A subscription has been removed from your cart. Due to payment gateway "
+"restrictions, different subscription products can not be purchased at the "
+"same time."
+msgstr ""
+"定期購入がカートから削除されました。 支払いゲートウェイの制限により、異なる定"
+"期購入製品を同時に購入することはできません。"
+
+#: includes/class-subscriptions-cart.php:66
+msgid ""
+"A subscription has been removed from your cart. Products and subscriptions "
+"can not be purchased at the same time."
+msgstr ""
+"定期購入がカートから削除されました。通常商品と定期購入を同時に購入することは"
+"できません。"
+
+#: includes/class-subscriptions-cart.php:353
+msgid "Please enter a valid postcode/ZIP."
+msgstr "有効な郵便番号 /ZIP を入力してください。"
+
+#: includes/class-subscriptions-cart.php:475
+msgid ""
+"That subscription product can not be added to your cart as it already "
+"contains a subscription renewal."
+msgstr ""
+"定期購入更新が既に含まれているため、その定期購入商品をカートに追加することは"
+"できません。"
+
+#: includes/class-subscriptions-cart.php:513
+msgid "Invalid recurring shipping method."
+msgstr "定期的な配送方法が無効です。"
+
+#: includes/class-subscriptions-product.php:128
+#, php-format
+msgid " %s"
+msgstr " %s 内"
+
+#: includes/class-subscriptions-product.php:132
+#: includes/subscription-price-functions.php:62
+#, php-format
+msgid "%1$s for %2$s"
+msgstr "%1$s の %2$s"
+
+#: includes/components/action-scheduler/classes/ActionScheduler_AdminView.php:81
+msgid "Published"
+msgstr "発行済み"
+
+#: includes/components/action-scheduler/classes/ActionScheduler_AdminView.php:81
+#: includes/components/action-scheduler/classes/ActionScheduler_AdminView.php:181
+msgid "Complete"
+msgstr "完了"
+
+#: includes/components/action-scheduler/classes/ActionScheduler_AdminView.php:119
+msgid "Hook"
+msgstr "フック"
+
+#: includes/components/action-scheduler/classes/ActionScheduler_AdminView.php:121
+msgid "Arguments"
+msgstr "引数"
+
+#: includes/components/action-scheduler/classes/ActionScheduler_AdminView.php:122
+msgid "Group"
+msgstr "グループ"
+
+#: includes/components/action-scheduler/classes/ActionScheduler_AdminView.php:124
+msgid "Scheduled Date"
+msgstr "予定日"
+
+#: includes/components/action-scheduler/classes/ActionScheduler_AdminView.php:129
+msgid "Started"
+msgstr "開始"
+
+#: includes/components/action-scheduler/classes/ActionScheduler_AdminView.php:131
+msgid "Completed"
+msgstr "完了しました"
+
+#: includes/components/action-scheduler/classes/ActionScheduler_AdminView.php:135
+msgid "Claim ID"
+msgstr "クレーム ID"
+
+#: includes/components/action-scheduler/classes/ActionScheduler_AdminView.php:136
+msgid "Log"
+msgstr "ログ"
+
+#: includes/components/action-scheduler/classes/ActionScheduler_AdminView.php:206
+#: includes/components/action-scheduler/classes/ActionScheduler_AdminView.php:215
+#, php-format
+msgid " (%s ago)"
+msgstr " (%s 前)"
+
+#: includes/components/action-scheduler/classes/ActionScheduler_AdminView.php:247
+msgid "Process the action now as if it were run as part of a queue"
+msgstr "キューの一部として実行されたかのようにアクションを処理する"
+
+#: includes/components/action-scheduler/classes/ActionScheduler_AdminView.php:247
+msgid "Run"
+msgstr "実行"
+
+#: includes/components/action-scheduler/classes/ActionScheduler_AdminView.php:325
+#, php-format
+msgid ""
+"Maximum simulatenous batches already in progress (%s queues). No actions "
+"will be processed until the current batches are complete."
+msgstr ""
+"すでに進行中の最大同時バッチ数(%s のキュー)。現在のバッチが完了するまで、アク"
+"ションは処理されません。"
+
+#: includes/components/action-scheduler/classes/ActionScheduler_AdminView.php:334
+#, php-format
+msgid "Successfully executed the action: %s"
+msgstr "アクションを正常に実行しました: %s"
+
+#: includes/components/action-scheduler/classes/ActionScheduler_AdminView.php:338
+#, php-format
+msgid "Could not execute the action: %s"
+msgstr "アクションを実行できませんでした: %s"
+
+#: includes/components/action-scheduler/classes/ActionScheduler_AdminView.php:370
+msgid "Now!"
+msgstr "現在!"
+
+#: includes/components/action-scheduler/classes/ActionScheduler_AdminView.php:457
+#: includes/components/action-scheduler/classes/ActionScheduler_AdminView.php:460
+msgid "Action updated."
+msgstr "アクションが更新されました。"
+
+#: includes/components/action-scheduler/classes/ActionScheduler_AdminView.php:458
+msgid "Custom field updated."
+msgstr "カスタムフィールドが更新されました。"
+
+#: includes/components/action-scheduler/classes/ActionScheduler_AdminView.php:459
+msgid "Custom field deleted."
+msgstr "カスタムフィールドが削除されました。"
+
+#: includes/components/action-scheduler/classes/ActionScheduler_AdminView.php:461
+#, php-format
+msgid "Action restored to revision from %s"
+msgstr "%s からリビジョンに復元されたアクション"
+
+#: includes/components/action-scheduler/classes/ActionScheduler_AdminView.php:462
+msgid "Action scheduled."
+msgstr "予定されているアクション。"
+
+#: includes/components/action-scheduler/classes/ActionScheduler_AdminView.php:463
+msgid "Action saved."
+msgstr "アクションを保存しました。"
+
+#: includes/components/action-scheduler/classes/ActionScheduler_AdminView.php:464
+msgid "Action submitted."
+msgstr "アクションが送信されました。"
+
+#: includes/components/action-scheduler/classes/ActionScheduler_AdminView.php:465
+#, php-format
+msgid "Action scheduled for: <strong>%1$s</strong>"
+msgstr "予定されているアクション: <strong>%1$s</strong>"
+
+#: includes/components/action-scheduler/classes/ActionScheduler_AdminView.php:465
+msgid "M j, Y @ G:i"
+msgstr "M j, Y @ G:i"
+
+#: includes/components/action-scheduler/classes/ActionScheduler_AdminView.php:466
+msgid "Action draft updated."
+msgstr "アクションドラフトが更新されました。"
+
+#: includes/components/action-scheduler/classes/ActionScheduler_QueueRunner.php:138
+msgid "Every minute"
+msgstr "毎分"
+
+#: includes/components/action-scheduler/classes/ActionScheduler_wpCommentLogger.php:248
+msgid "action created"
+msgstr "アクションが作成されました"
+
+#: includes/components/action-scheduler/classes/ActionScheduler_wpCommentLogger.php:252
+msgid "action canceled"
+msgstr "アクションがキャンセルされました"
+
+#: includes/components/action-scheduler/classes/ActionScheduler_wpCommentLogger.php:256
+msgid "action started"
+msgstr "アクションが開始されました"
+
+#: includes/components/action-scheduler/classes/ActionScheduler_wpCommentLogger.php:260
+msgid "action complete"
+msgstr "アクションが完了しました"
+
+#: includes/components/action-scheduler/classes/ActionScheduler_wpCommentLogger.php:264
+#, php-format
+msgid "action failed: %s"
+msgstr "アクションが失敗しました: %s"
+
+#: includes/components/action-scheduler/classes/ActionScheduler_wpCommentLogger.php:268
+#, php-format
+msgid "action timed out after %s seconds"
+msgstr "アクションは %s 秒後にタイムアウトしました"
+
+#: includes/components/action-scheduler/classes/ActionScheduler_wpCommentLogger.php:273
+#, php-format
+msgid "unexpected shutdown: PHP Fatal error %s in %s on line %s"
+msgstr "予想外のシャットダウン: PHP %s の行 %s の致命的なエラー %s"
+
+#: includes/components/action-scheduler/classes/ActionScheduler_wpCommentLogger.php:278
+msgid "action reset"
+msgstr "アクションリセット"
+
+#: includes/components/action-scheduler/classes/ActionScheduler_wpPostStore.php:25
+#, php-format
+msgid "Error saving action: %s"
+msgstr "アクションの保存中にエラー: %s"
+
+#: includes/components/action-scheduler/classes/ActionScheduler_wpPostStore.php:44
+#: includes/components/action-scheduler/classes/ActionScheduler_wpPostStore.php:53
+msgid "Invalid schedule. Cannot save action."
+msgstr "スケジュールが無効です。アクションを保存できません。"
+
+#: includes/components/action-scheduler/classes/ActionScheduler_wpPostStore.php:69
+msgid "Unable to save action."
+msgstr "アクションを保存できません。"
+
+#: includes/components/action-scheduler/classes/ActionScheduler_wpPostStore.php:319
+#: includes/components/action-scheduler/classes/ActionScheduler_wpPostStore.php:328
+#: includes/components/action-scheduler/classes/ActionScheduler_wpPostStore.php:354
+#: includes/components/action-scheduler/classes/ActionScheduler_wpPostStore.php:489
+#, php-format
+msgid "Unidentified action %s"
+msgstr "未確認のアクション %s"
+
+#: includes/components/action-scheduler/classes/ActionScheduler_wpPostStore.php:410
+msgid "Unable to claim actions. Database error."
+msgstr "アクションを要求できません。データベースエラー。"
+
+#: includes/components/action-scheduler/classes/ActionScheduler_wpPostStore.php:440
+#, php-format
+msgid "Unable to unlock claim %s. Database error."
+msgstr "クレーム %s をアンロックできません。データベースエラー。"
+
+#: includes/components/action-scheduler/classes/ActionScheduler_wpPostStore.php:456
+#, php-format
+msgid "Unable to unlock claim on action %s. Database error."
+msgstr "アクション %s のクレームを解除できません。データベースエラー。"
+
+#: includes/components/action-scheduler/classes/ActionScheduler_wpPostStore.php:467
+#, php-format
+msgid "Unable to mark failure on action %s. Database error."
+msgstr "アクション %s で失敗をマークすることができません。データベースエラー。"
+
+#: includes/components/action-scheduler/classes/ActionScheduler_wpPostStore_PostTypeRegistrar.php:22
+#: includes/components/action-scheduler/classes/ActionScheduler_wpPostStore_PostTypeRegistrar.php:33
+msgid "Scheduled Actions"
+msgstr "スケジュールされたアクション"
+
+#: includes/components/action-scheduler/classes/ActionScheduler_wpPostStore_PostTypeRegistrar.php:23
+msgid "Scheduled actions are hooks triggered on a cetain date and time."
+msgstr "スケジュールされたアクションは、特定の日時に発生するフックです。"
+
+#: includes/components/action-scheduler/classes/ActionScheduler_wpPostStore_PostTypeRegistrar.php:34
+msgid "Scheduled Action"
+msgstr "スケジュールされたアクション"
+
+#: includes/components/action-scheduler/classes/ActionScheduler_wpPostStore_PostTypeRegistrar.php:36
+msgid "Add"
+msgstr "追加"
+
+#: includes/components/action-scheduler/classes/ActionScheduler_wpPostStore_PostTypeRegistrar.php:37
+msgid "Add New Scheduled Action"
+msgstr "新しいスケジュールされたアクションを追加する"
+
+#: includes/components/action-scheduler/classes/ActionScheduler_wpPostStore_PostTypeRegistrar.php:39
+msgid "Edit Scheduled Action"
+msgstr "スケジュールされたアクションの編集"
+
+#: includes/components/action-scheduler/classes/ActionScheduler_wpPostStore_PostTypeRegistrar.php:40
+msgid "New Scheduled Action"
+msgstr "新しいスケジュールされたアクション"
+
+#: includes/components/action-scheduler/classes/ActionScheduler_wpPostStore_PostTypeRegistrar.php:41
+#: includes/components/action-scheduler/classes/ActionScheduler_wpPostStore_PostTypeRegistrar.php:42
+msgid "View Action"
+msgstr "アクションの表示"
+
+#: includes/components/action-scheduler/classes/ActionScheduler_wpPostStore_PostTypeRegistrar.php:43
+msgid "Search Scheduled Actions"
+msgstr "スケジュールされたアクションの検索"
+
+#: includes/components/action-scheduler/classes/ActionScheduler_wpPostStore_PostTypeRegistrar.php:44
+msgid "No actions found"
+msgstr "アクションが見つかりません"
+
+#: includes/components/action-scheduler/classes/ActionScheduler_wpPostStore_PostTypeRegistrar.php:45
+msgid "No actions found in trash"
+msgstr "ゴミ箱にアクションが見つかりません"
+
+#: includes/components/action-scheduler/classes/ActionScheduler_wpPostStore_TaxonomyRegistrar.php:16
+msgid "Action Group"
+msgstr "アクショングループ"
+
+#: includes/components/class-subscription.php:174
+msgid "Payment received."
+msgstr "お支払いを受領しました。"
+
+#: includes/components/class-subscription.php:363
+#, php-format
+msgid "Unable to change subscription status to \"%s\"."
+msgstr "定期購入ステータスを「%s」に変更できません。"
+
+#: includes/components/class-subscription.php:438
+#, php-format
+msgid "Unable to change subscription status to \"%s\". Exception: %s"
+msgstr "定期購入ステータスを「%s」に変更できません。例外: %s"
+
+#: includes/components/class-subscription.php:505
+#, php-format
+msgid "Status changed from %1$s to %2$s."
+msgstr "ステータスが %1$s から %2$s に変更されました。"
+
+#: includes/components/class-subscription.php:512
+#, php-format
+msgid "Status set to %s."
+msgstr "ステータスは %s に設定されています。"
+
+#: includes/components/class-subscription.php:795
+msgid "Not yet ended"
+msgstr "まだ終了していません"
+
+#: includes/components/class-subscription.php:798
+msgid "Not cancelled"
+msgstr "キャンセルされません"
+
+#: includes/components/class-subscription.php:802
+msgid "-"
+msgstr "-"
+
+#: includes/components/class-subscription.php:888
+msgid "The start date of a subscription can not be deleted, only updated."
+msgstr "定期購入の開始日を削除することはできず、更新のみが可能です。"
+
+#: includes/components/class-subscription.php:892
+#, php-format
+msgid ""
+"The %s date of a subscription can not be deleted. You must delete the order."
+msgstr "定期購入の %s 日付は削除できません。注文を削除する必要があります。"
+
+#: includes/components/class-subscription.php:1150
+msgid "Payment failed."
+msgstr "支払いに失敗しました。"
+
+#: includes/components/class-subscription.php:1154
+msgid "Subscription Cancelled: maximum number of failed payments reached."
+msgstr "定期購入がキャンセルされました: 失敗した支払いの最大数に達しました。"
+
+#: includes/components/class-subscription.php:1286
+msgid "Manual Renewal"
+msgstr "手動更新"
+
+#: includes/components/class-subscription.php:1336
+msgid "Payment method meta must be an array."
+msgstr "お支払い方法のメタは配列でなければなりません。"
+
+#: includes/components/class-subscription.php:1375
+#: includes/subscription-renewal-functions.php:177
+msgid "Backordered"
+msgstr "在庫切れでした"
+
+#: includes/components/class-subscription.php:1437
+msgid "Invalid format. First parameter needs to be an array."
+msgstr "無効な形式。最初のパラメータは配列である必要があります。"
+
+#: includes/components/class-subscription.php:1441
+msgid "Invalid data. First parameter was empty when passed to update_dates()."
+msgstr ""
+"無効なデータ。update_dates() に渡されると、最初のパラメータは空になりました。"
+
+#: includes/components/class-subscription.php:1448
+msgid ""
+"Invalid data. First parameter has a date that is not in the registered date "
+"types."
+msgstr ""
+"無効なデータ。最初のパラメータには、登録された日付型にない日付があります。"
+
+#: includes/components/class-subscription.php:1467
+#, php-format
+msgid "Invalid %s date. The date must be of the format: \"Y-m-d H:i:s\"."
+msgstr ""
+"%s の日付が無効です。日付は 「Y-m-d H:i:s」の形式でなければなりません。"
+
+#: includes/components/class-subscription.php:1498
+#, php-format
+msgid "The %s date must occur after the cancellation date."
+msgstr "%s 日付は、キャンセル日の後に指定する必要があります。"
+
+#: includes/components/class-subscription.php:1503
+#, php-format
+msgid "The %s date must occur after the last payment date."
+msgstr "%s の日付は、最後の支払い日の後に指定する必要があります。"
+
+#: includes/components/class-subscription.php:1506
+#, php-format
+msgid "The %s date must occur after the next payment date."
+msgstr "%s の日付は、次の支払い日の後でなければなりません。"
+
+#: includes/hf-includes/class-hf-paypal-reference-ipn-handler.php:80
+msgid "Billing agreement cancelled at PayPal."
+msgstr "PayPal で請求契約がキャンセルされました。"
+
+#: includes/hf-includes/class-hf-paypal-standard-ipn-handler.php:200
+msgid "IPN subscription sign up completed."
+msgstr "IPN 定期購入サインアップが完了しました。"
+
+#: includes/hf-includes/class-hf-paypal-standard-ipn-handler.php:232
+#: includes/hf-includes/class-hf-paypal-standard-ipn-handler.php:297
+msgid "IPN subscription payment completed."
+msgstr "IPN 定期購入の支払いが完了しました。"
+
+#: includes/hf-includes/class-hf-paypal-standard-ipn-handler.php:261
+msgid "IPN subscription failing payment method changed."
+msgstr "IPN 定期購入に失敗した支払い方法が変更されました。"
+
+#: includes/hf-includes/class-hf-paypal-standard-ipn-handler.php:340
+msgid "IPN subscription suspended."
+msgstr "IPN 定期購入が一時停止しました。"
+
+#: includes/hf-includes/class-hf-paypal-standard-ipn-handler.php:359
+msgid "IPN subscription cancelled."
+msgstr "IPN 定期購入がキャンセルされました。"
+
+#: includes/hf-includes/class-hf-paypal-standard-ipn-handler.php:374
+msgid "IPN subscription payment failure."
+msgstr "IPN 定期購入の支払いが失敗しました。"
+
+#: includes/hf-includes/class-hf-paypal-standard-ipn-handler.php:487
+msgid "Invalid PayPal IPN Payload: unable to find matching subscription."
+msgstr "無効な PayPal IPN ペイロード: 一致する定期購入が見つかりません。"
+
+#: includes/subscription-cart-functions.php:54
+#: includes/subscription-cart-functions.php:55
+#, php-format
+msgid "Shipping via %s"
+msgstr "配送 %s"
+
+#: includes/subscription-cart-functions.php:139
+msgid "Free"
+msgstr "無料"
+
+#: includes/subscription-cart-functions.php:163
+msgid "Free shipping coupon"
+msgstr "送料無料のクーポン"
+
+#: includes/subscription-cart-functions.php:187
+#, php-format
+msgid "(Includes %s)"
+msgstr "( %s を含む)"
+
+#: includes/subscription-cart-functions.php:230
+#, php-format
+msgid "First renewal date: %s"
+msgstr "最初の更新日: %s"
+
+#: includes/subscription-common-functions.php:296
+msgid ""
+"  ( Please cancel the subscription from PayPal dashboard under pre-approved "
+"payments ) "
+msgstr ""
+" (事前承認された支払いの下で PayPal ダッシュボードから購読をキャンセルしてく"
+"ださい) "
+
+#: includes/subscription-common-functions.php:361
+msgid ""
+"Invalid date. The date must be a string and of the format: \"Y-m-d H:i:s\"."
+msgstr ""
+"日付が無効です。日付は文字列で、 ｢Y-m-d H:i:s｣の形式でなければなりません。"
+
+#: includes/subscription-common-functions.php:363
+msgid "Subscription start date must be before current day."
+msgstr "定期購入の開始日は、現在の日より前でなければなりません。"
+
+#: includes/subscription-common-functions.php:367
+msgid "Invalid subscription customer_id."
+msgstr "無効な定期購入 customer_id です。"
+
+#: includes/subscription-common-functions.php:371
+msgid "Invalid subscription billing period given."
+msgstr "指定された定期購入の請求期間が無効です。"
+
+#: includes/subscription-common-functions.php:375
+msgid ""
+"Invalid subscription billing interval given. Must be an integer greater than "
+"0."
+msgstr ""
+"指定された定期購入の請求間隔が無効です。0より大きい整数である必要があります。"
+
+#: includes/subscription-common-functions.php:383
+msgid "%b %d, %Y @ %I:%M %p"
+msgstr "%b %d, %Y @ %I:%M %p"
+
+#: includes/subscription-common-functions.php:384
+#, php-format
+msgid "Subscription &ndash; %s"
+msgstr "定期購入 &ndash; %s"
+
+#: includes/subscription-common-functions.php:398
+msgid "Invalid subscription status given."
+msgstr "指定された定期購入ステータスが無効です。"
+
+#: includes/subscription-common-functions.php:429
+msgid "Invalid data. Orders expected aren't orders."
+msgstr "無効なデータ。予想される注文は注文ではありません。"
+
+#: includes/subscription-common-functions.php:433
+msgid "Invalid data. Type of copy is not a string."
+msgstr "無効なデータ。コピーの種類は文字列ではありません。"
+
+#: includes/subscription-common-functions.php:482
+msgid "Pending"
+msgstr "保留中"
+
+#: includes/subscription-common-functions.php:483
+msgid "Active"
+msgstr "アクティブ"
+
+#: includes/subscription-common-functions.php:484
+msgid "On hold"
+msgstr "保留"
+
+#: includes/subscription-common-functions.php:485
+msgid "Cancelled"
+msgstr "キャンセル"
+
+#: includes/subscription-common-functions.php:486
+msgid "Expired"
+msgstr "期限切れ"
+
+#: includes/subscription-common-functions.php:487
+msgid "Pending Cancellation"
+msgstr "保留中のキャンセル"
+
+#: includes/subscription-common-functions.php:496
+msgid "Can not get status name. Status is not a string."
+msgstr "ステータス名を取得できません。ステータスは文字列ではありません。"
+
+#: includes/subscription-common-functions.php:566
+msgid "Can not get address type display name. Address type is not a string."
+msgstr ""
+"アドレスタイプの表示名を取得できません。アドレスタイプは文字列ではありませ"
+"ん。"
+
+#: includes/subscription-common-functions.php:570
+msgid "Shipping Address"
+msgstr "お届け先の住所"
+
+#: includes/subscription-common-functions.php:571
+msgid "Billing Address"
+msgstr "請求先住所"
+
+#: includes/subscription-common-functions.php:583
+#: public/templates/myaccount/view-subscription.php:31
+msgid "Last Order Date"
+msgstr "最終注文日"
+
+#: includes/subscription-common-functions.php:584
+msgid "Cancelled Date"
+msgstr "キャンセルされた日付"
+
+#: includes/subscription-common-functions.php:585
+#: public/templates/myaccount/view-subscription.php:33
+msgid "End Date"
+msgstr "終了日"
+
+#: includes/subscription-common-functions.php:605
+msgid "Date type is not a string."
+msgstr "日付タイプは文字列ではありません。"
+
+#: includes/subscription-common-functions.php:607
+msgid "Date type can not be an empty string."
+msgstr "日付タイプは空の文字列にすることはできません。"
+
+#: includes/subscription-price-functions.php:13
+msgid "up front"
+msgstr "前側"
+
+#: includes/subscription-price-functions.php:48
+#, php-format
+msgid "%1$s %2$s then %3$s"
+msgstr "%1$s %2$s 、次に %3$s"
+
+#: includes/subscription-renewal-functions.php:94
+#, php-format
+msgid "\"%s\" passed to the function was not a string."
+msgstr "関数に渡された ｢%s｣は文字列ではありませんでした。"
+
+#: includes/subscription-renewal-functions.php:98
+#, php-format
+msgid "\"%s\" is not a valid new order type."
+msgstr "｢%s｣は有効な新しい注文タイプではありません。"
+
+#: includes/welcome/welcome.php:6
+msgid "Welcome to Subscription for WooCommerce"
+msgstr "Subscription for WooCommerce へようこそ"
+
+#: includes/welcome/welcome.php:8
+msgid "Supports simple subscription products."
+msgstr "簡単定期購入商品をサポートします。"
+
+#: public/class-hf-woocommerce-subscription-public.php:192
+msgid ""
+"That subscription does not exist. Please contact us if you need assistance."
+msgstr ""
+"その定期購入は存在しません。サポートが必要な場合はお問い合わせください。"
+
+#: public/class-hf-woocommerce-subscription-public.php:196
+msgid "Security error. Please contact us if you need assistance."
+msgstr "セキュリティエラーです。サポートが必要な場合はお問い合わせください。"
+
+#: public/class-hf-woocommerce-subscription-public.php:200
+msgid "That doesn't appear to be one of your subscriptions."
+msgstr "それはあなたの定期購入の1つではないようです。"
+
+#: public/class-hf-woocommerce-subscription-public.php:204
+#, php-format
+msgid ""
+"That subscription can not be changed to %s. Please contact us if you need "
+"assistance."
+msgstr ""
+"その定期購入を %s に変更することはできません。サポートが必要な場合はお問い合"
+"わせください。"
+
+#: public/class-hf-woocommerce-subscription-public.php:222
+msgid ""
+"You can not reactivate that subscription until paying to renew it. Please "
+"contact us if you need assistance."
+msgstr ""
+"更新を支払うまで、その定期購入を再開することはできません。サポートが必要な場"
+"合はお問い合わせください。"
+
+#: public/class-hf-woocommerce-subscription-public.php:232
+msgid ""
+"You can not suspend that subscription - the suspension limit has been "
+"reached. Please contact us if you need assistance."
+msgstr ""
+"定期購入を一時停止することはできません。停止制限に達しています。サポートが必"
+"要な場合はお問い合わせください。"
+
+#: public/templates/cart/cart-recurring-shipping.php:15
+msgid "Recurring shipping options can be selected on checkout."
+msgstr "定期的な発送オプションは、お支払い時に選択することができます。"
+
+#: public/templates/cart/cart-recurring-shipping.php:29
+msgid "Shipping costs will be calculated once you have provided your address."
+msgstr "配送費は、住所を提供した後に計算されます。"
+
+#: public/templates/cart/cart-recurring-shipping.php:31
+msgid ""
+"There are no shipping methods available. Please double check your address, "
+"or contact us if you need any help."
+msgstr ""
+"利用可能な配送方法はありません。住所が重複していないか確認してください。"
+
+#: public/templates/checkout/recurring-totals.php:11
+msgid "Recurring Totals"
+msgstr "定期的な合計"
+
+#: public/templates/checkout/recurring-totals.php:21
+#: public/templates/checkout/recurring-totals.php:22
+msgid "Subtotal"
+msgstr "小計"
+
+#: public/templates/checkout/recurring-totals.php:134
+#: public/templates/checkout/recurring-totals.php:135
+msgid "Recurring Total"
+msgstr "定期的な合計"
+
+#: public/templates/myaccount/related-subscriptions.php:8
+msgid "Related Subscriptions"
+msgstr "関連定期購入"
+
+#: public/templates/myaccount/related-subscriptions.php:17
+#: public/templates/myaccount/subscriptions.php:28
+#: public/templates/myaccount/view-subscription.php:53
+msgid "Actions"
+msgstr "アクション"
+
+#: public/templates/myaccount/related-subscriptions.php:23
+#: public/templates/myaccount/subscriptions.php:35
+msgid "ID"
+msgstr "ID"
+
+#: public/templates/myaccount/related-subscriptions.php:38
+#: public/templates/myaccount/subscriptions.php:56
+msgid "View"
+msgstr "表示"
+
+#: public/templates/myaccount/subscription-account-view.php:57
+#, php-format
+msgid "Subscription #%s"
+msgstr "定期購入 #%s"
+
+#: public/templates/myaccount/subscriptions.php:16
+msgid "My Subscriptions"
+msgstr "自分の定期購入"
+
+#: public/templates/myaccount/subscriptions.php:24
+msgid "Subscription ID"
+msgstr "定期購入 ID"
+
+#: public/templates/myaccount/subscriptions.php:26
+msgid "Next payment on"
+msgstr "次の支払い"
+
+#: public/templates/myaccount/subscriptions.php:67
+#, php-format
+msgid "No subscriptions found. Find your first subscription in the %sstore%s."
+msgstr "定期購入は見つかりませんでした。%sstore%sの最初の定期購入を探します。"
+
+#: public/templates/myaccount/view-subscription.php:11
+msgid "Invalid Subscription."
+msgstr "無効な定期購入。"
+
+#: public/templates/myaccount/view-subscription.php:11
+msgid "My Account"
+msgstr "マイアカウント"
+
+#: public/templates/myaccount/view-subscription.php:32
+msgid "Next Payment Date"
+msgstr "次の支払日"
+
+#: public/templates/myaccount/view-subscription.php:65
+msgid "Subscription Updates"
+msgstr "定期購入の更新"
+
+#: public/templates/myaccount/view-subscription.php:84
+msgid "Subscription Totals"
+msgstr "定期購入合計"
+
+#: public/templates/myaccount/view-subscription.php:91
+msgid "Product"
+msgstr "商品"
+
+#: public/templates/myaccount/view-subscription.php:105
+msgid "Are you sure you want remove this item from your subscription?"
+msgstr "このアイテムを定期購入から削除してもよろしいですか？"
+
+#: public/templates/single-product/add-to-cart/subscription.php:52
+msgid "Resubscribe"
+msgstr "再登録"
+
+#: public/templates/single-product/add-to-cart/subscription.php:54
+msgid "You have an active subscription to this product already."
+msgstr "あなたはすでにこの商品を積極的に定期購入しています。"

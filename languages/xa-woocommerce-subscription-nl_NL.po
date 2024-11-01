@@ -1,0 +1,1613 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2018-06-11 10:59+0530\n"
+"PO-Revision-Date: 2018-06-11 11:03+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: nl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.12\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e;_nx;esc_html_e;esc_attr_e;_nx_noop;esc_html_x;"
+"esc_html__\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: admin/class-hf-subscription-data-meta-box.php:36
+#, php-format
+msgid "Subscription #%s details"
+msgstr "Abonnement #%s details"
+
+#: admin/class-hf-subscription-data-meta-box.php:43
+msgid "Customer:"
+msgstr "Klant:"
+
+#: admin/class-hf-subscription-data-meta-box.php:52
+msgid "View other subscriptions"
+msgstr "Bekijken andere abonnementen"
+
+#: admin/class-hf-subscription-data-meta-box.php:64
+#, php-format
+msgid "%1$s (#%2$s &ndash; %3$s)"
+msgstr "%1$s (#%2$s &ndash; %3$s)"
+
+#: admin/class-hf-subscription-data-meta-box.php:71
+msgid "Guest"
+msgstr "Gast"
+
+#: admin/class-hf-subscription-data-meta-box.php:78
+msgid "Subscription status:"
+msgstr "Abonnement status:"
+
+#: admin/class-hf-subscription-data-meta-box.php:96
+msgid "Billing Details"
+msgstr "Factuurgegevens"
+
+#: admin/class-hf-subscription-data-meta-box.php:96
+msgid "Load billing address"
+msgstr "Factuuradres gebruiken"
+
+#: admin/class-hf-subscription-data-meta-box.php:102
+#: admin/class-hf-subscription-data-meta-box.php:104
+#: admin/class-hf-subscription-data-meta-box.php:169
+#: admin/class-hf-subscription-data-meta-box.php:171
+msgid "Address"
+msgstr "Adres"
+
+#: admin/class-hf-subscription-data-meta-box.php:104
+msgid "No billing address set."
+msgstr "Geen factuuradres."
+
+#: admin/class-hf-subscription-data-meta-box.php:124
+msgid "Payment Method"
+msgstr "Betaalmethode"
+
+#: admin/class-hf-subscription-data-meta-box.php:127
+#, php-format
+msgid "Gateway ID: [%s]"
+msgstr "Gateway ID: [%s]"
+
+#: admin/class-hf-subscription-data-meta-box.php:158
+msgid "Shipping Details"
+msgstr "Verzendgegevens"
+
+#: admin/class-hf-subscription-data-meta-box.php:160
+msgid "Copy from billing"
+msgstr "Factuuradres kopiëren"
+
+#: admin/class-hf-subscription-data-meta-box.php:161
+msgid "Load shipping address"
+msgstr "Verzendadres laden"
+
+#: admin/class-hf-subscription-data-meta-box.php:171
+msgid "No shipping address set."
+msgstr "Geen adres."
+
+#: admin/class-hf-subscription-data-meta-box.php:193
+#: admin/class-hf-subscription-data-meta-box.php:219
+msgid "Customer Note:"
+msgstr "Klant opmerking:"
+
+#: admin/class-hf-subscription-data-meta-box.php:220
+msgid "Customer's notes about the order"
+msgstr "Notities van de klant over deze bestelling"
+
+#: admin/class-hf-subscription-data-meta-box.php:286
+#, php-format
+msgid "Error updating some information: %s"
+msgstr "Fout bij het bijwerken van informatie: %s"
+
+#: admin/class-hf-subscription-related-meta-box.php:39
+#: admin/class-hf-woocommerce-subscription-admin.php:395
+#: admin/class-hf-woocommerce-subscription-admin.php:507
+#: admin/class-hf-woocommerce-subscription-admin.php:1463
+#: public/templates/myaccount/related-subscriptions.php:13
+msgid "Subscription"
+msgstr ""
+"Place Order Knop Text in checkout Page when an order contains a subscription."
+
+#: admin/class-hf-subscription-related-meta-box.php:59
+msgid "Resubscribed Subscription"
+msgstr "Opnieuw geabonneerd abonnement"
+
+#: admin/class-hf-subscription-related-meta-box.php:67
+msgid "Initial Subscription"
+msgstr "Oorspronkelijk abonnement"
+
+#: admin/class-hf-subscription-related-meta-box.php:75
+#: admin/class-hf-woocommerce-subscription-admin.php:1489
+msgid "Parent Order"
+msgstr "Hoofd bestelling"
+
+#: admin/class-hf-subscription-related-meta-box.php:84
+#: admin/class-hf-woocommerce-subscription-admin.php:1485
+msgid "Renewal Order"
+msgstr "Terugkerende bestelling"
+
+#: admin/class-hf-subscription-related-meta-box.php:103
+#: admin/class-hf-woocommerce-subscription-admin.php:1572
+#: public/templates/myaccount/related-subscriptions.php:25
+#, php-format
+msgid "#%s"
+msgstr "#%s"
+
+#: admin/class-hf-subscription-related-meta-box.php:113
+#: admin/class-hf-woocommerce-subscription-admin.php:711
+msgid "Y/m/d g:i:s A"
+msgstr "Y/m/d g:i:s A"
+
+#: admin/class-hf-subscription-related-meta-box.php:116
+msgid "Unpublished"
+msgstr "Gedepubliceerd"
+
+#: admin/class-hf-subscription-related-meta-box.php:139
+msgid "Order Number "
+msgstr "Bestelnummer"
+
+#: admin/class-hf-subscription-related-meta-box.php:140
+msgid "Relationship"
+msgstr "Relatie"
+
+#: admin/class-hf-subscription-related-meta-box.php:141
+msgid "Order Date"
+msgstr "Besteldatum"
+
+#: admin/class-hf-subscription-related-meta-box.php:142
+msgid "Order Status"
+msgstr "Bestelstatus"
+
+#: admin/class-hf-subscription-related-meta-box.php:143
+msgid "Order Total"
+msgstr "Besteltotaal"
+
+#: admin/class-hf-subscription-schedule-meta-box.php:23
+#: admin/class-hf-subscription-schedule-meta-box.php:41
+msgid "Recurrence:"
+msgstr "Herhaling:"
+
+#: admin/class-hf-subscription-schedule-meta-box.php:32
+msgid "Billing Period"
+msgstr "Factuurperiode"
+
+#: admin/class-hf-woocommerce-subscription-admin.php:76
+msgid ""
+"Deleting this order will also delete the subscriptions purchased with the "
+"order."
+msgstr ""
+"Deze bestelling verwijderen betekent dat je ook het bijbehorende abonnement "
+"verwijdert."
+
+#: admin/class-hf-woocommerce-subscription-admin.php:88
+msgid "Enter the new period, either day, week, month or year:"
+msgstr "Vul de periode in, per dag, week, maand of jaar:"
+
+#: admin/class-hf-woocommerce-subscription-admin.php:89
+msgid "Enter a new length (e.g. 5):"
+msgstr "Vul de lengte in (bv. 5):"
+
+#: admin/class-hf-woocommerce-subscription-admin.php:90
+msgid ""
+"Enter a new interval as a single number (e.g. to charge every 2nd month, "
+"enter 2):"
+msgstr ""
+"Vul een nieuwe interval in als een enkel getal (bv iedere 2de maand, vul 2 "
+"in):"
+
+#: admin/class-hf-woocommerce-subscription-admin.php:94
+msgid ""
+"You are about to trash one or more orders which contain a subscription.\n"
+"\n"
+"Trashing the orders will also trash the subscriptions purchased with these "
+"orders."
+msgstr ""
+"Je staat op het punt om een bestelling te verwijderen die een abonnement "
+"bevat.\n"
+"\n"
+"Het verwijderen van bestellingen verwijdert ook het abonnement wat gekoppeld "
+"is aan deze bestelling."
+
+#: admin/class-hf-woocommerce-subscription-admin.php:111
+msgid ""
+"Warning: Deleting a user will also delete the user's subscriptions. The "
+"user's orders will remain but be reassigned to the 'Guest' user.\n"
+"\n"
+"Do you want to continue to delete this user and any associated subscriptions?"
+msgstr ""
+"Waarschuwing: Een gebruiker verwijderen, zal ook het abonnement van de "
+"gebruiker verwijderen. Bestellingen van de gebruiker zullen blijven bestaan, "
+"maar worden toegekend aan de ‘Gast’ gebruiker.\n"
+"\n"
+"Wil je doorgaan met het verwijderen van deze gebruiker en alle bijbehorende "
+"abonnementen?"
+
+#: admin/class-hf-woocommerce-subscription-admin.php:130
+msgid "Settings"
+msgstr "Instellingen"
+
+#: admin/class-hf-woocommerce-subscription-admin.php:131
+msgid "Support"
+msgstr "Ondersteuning"
+
+#: admin/class-hf-woocommerce-subscription-admin.php:132
+msgid "Review"
+msgstr "Beoordeling"
+
+#: admin/class-hf-woocommerce-subscription-admin.php:152
+#: admin/class-hf-woocommerce-subscription-admin.php:394
+#: admin/class-hf-woocommerce-subscription-admin.php:407
+msgid "WebToffee Subscriptions"
+msgstr "WebToffee-abonnementen"
+
+#: admin/class-hf-woocommerce-subscription-admin.php:167
+msgid "Manage Text"
+msgstr "Beheren"
+
+#: admin/class-hf-woocommerce-subscription-admin.php:173
+msgid "My Account Tab Title"
+msgstr "Titel van mijn accounttabblad"
+
+#: admin/class-hf-woocommerce-subscription-admin.php:174
+msgid "My Account Tab Title for subscription listing page."
+msgstr ""
+"Het tabblad Titel van mijn account voor de pagina met abonnementslijsten."
+
+#: admin/class-hf-woocommerce-subscription-admin.php:177
+#: admin/class-hf-woocommerce-subscription-admin.php:186
+#: includes/welcome/welcome.php:11
+#: public/templates/myaccount/subscription-account-view.php:62
+#: public/templates/myaccount/subscription-account-view.php:75
+msgid "Subscriptions"
+msgstr "Abonnementen"
+
+#: admin/class-hf-woocommerce-subscription-admin.php:182
+msgid "My Account Tab Text"
+msgstr "Mijn account"
+
+#: admin/class-hf-woocommerce-subscription-admin.php:183
+msgid "My Account Tab Text for subscription listing page."
+msgstr "Mijn Account tabblad tekst voor abonnement aanbieding pagina."
+
+#: admin/class-hf-woocommerce-subscription-admin.php:191
+msgid "Add to Cart Button Text"
+msgstr "Toevoegen aan winkelwagen Knop Tekst"
+
+#: admin/class-hf-woocommerce-subscription-admin.php:192
+msgid "Add to Cart Button Text on product page."
+msgstr "Voeg toe aan winkelwagen knoptekst op productpagina."
+
+#: admin/class-hf-woocommerce-subscription-admin.php:195
+#: admin/class-hf-woocommerce-subscription-admin.php:204
+#: includes/class-subscriptions-product.php:20
+#: includes/class-subscriptions-product.php:22
+#: includes/components/class-hf-product-subscription.php:27
+#: includes/components/class-hf-product-subscription.php:29
+msgid "Subscribe"
+msgstr "Inschrijven"
+
+#: admin/class-hf-woocommerce-subscription-admin.php:200
+msgid "Place Order Button Text"
+msgstr "Bestelknop tekst"
+
+#: admin/class-hf-woocommerce-subscription-admin.php:201
+msgid ""
+"Place Order Button Text in checkout Page when an order contains a "
+"subscription."
+msgstr ""
+"Place Order Knop Text in checkout Page when an order contains a subscription."
+
+#: admin/class-hf-woocommerce-subscription-admin.php:211
+#: includes/class-hf-plugin-uninstall-feedback.php:55
+msgid "Other"
+msgstr "Andere"
+
+#: admin/class-hf-woocommerce-subscription-admin.php:218
+msgid "Allow Mixed Checkout"
+msgstr "Gemengde afhandeling toestaan"
+
+#: admin/class-hf-woocommerce-subscription-admin.php:219
+msgid ""
+"Allow subscription products and normal products to be purchased together."
+msgstr ""
+"Sta toe dat abonnementen en producten gelijktijdig kunnen worden aangeschaft."
+
+#: admin/class-hf-woocommerce-subscription-admin.php:239
+msgid "Simple subscription"
+msgstr "Simpel abonnement"
+
+#: admin/class-hf-woocommerce-subscription-admin.php:257
+#: admin/class-hf-woocommerce-subscription-admin.php:270
+#, php-format
+msgid "%sth"
+msgstr "%sth"
+
+#: admin/class-hf-woocommerce-subscription-admin.php:261
+#, php-format
+msgid "%sst"
+msgstr "%sst"
+
+#: admin/class-hf-woocommerce-subscription-admin.php:264
+#, php-format
+msgid "%snd"
+msgstr "%snd"
+
+#: admin/class-hf-woocommerce-subscription-admin.php:267
+#, php-format
+msgid "%srd"
+msgstr "%srd"
+
+#: admin/class-hf-woocommerce-subscription-admin.php:396
+msgid "Add Subscription"
+msgstr "Abonnement toevoegen"
+
+#: admin/class-hf-woocommerce-subscription-admin.php:397
+msgid "Add New Subscription"
+msgstr "Voeg een nieuw abonnement toe"
+
+#: admin/class-hf-woocommerce-subscription-admin.php:398
+#: includes/components/action-scheduler/classes/ActionScheduler_wpPostStore_PostTypeRegistrar.php:38
+msgid "Edit"
+msgstr "Bewerken"
+
+#: admin/class-hf-woocommerce-subscription-admin.php:399
+msgid "Edit Subscription"
+msgstr "Abonnement bewerken"
+
+#: admin/class-hf-woocommerce-subscription-admin.php:400
+msgid "New Subscription"
+msgstr "Nieuw Abonnement"
+
+#: admin/class-hf-woocommerce-subscription-admin.php:401
+#: admin/class-hf-woocommerce-subscription-admin.php:402
+msgid "View Subscription"
+msgstr "Bekijk abonnement"
+
+#: admin/class-hf-woocommerce-subscription-admin.php:403
+msgid "Search Subscriptions"
+msgstr "Zoek abonnementen"
+
+#: admin/class-hf-woocommerce-subscription-admin.php:404
+msgid "No Subscriptions found"
+msgstr "Geen abonnementen gevonden"
+
+#: admin/class-hf-woocommerce-subscription-admin.php:405
+msgid "No Subscriptions found in trash"
+msgstr "Geen abonnementen gevonden in de prullenbak"
+
+#: admin/class-hf-woocommerce-subscription-admin.php:406
+msgid "Parent Subscriptions"
+msgstr "Huidige abonnementen"
+
+#: admin/class-hf-woocommerce-subscription-admin.php:409
+msgid "This is where subscriptions are stored."
+msgstr "Dit is de plek waar abonnementen worden opgeslagen."
+
+#: admin/class-hf-woocommerce-subscription-admin.php:441
+#, php-format
+msgid "Active <span class=\"count\">(%s)</span>"
+msgstr "Actief <span class=\"count\">(%s)</span>"
+
+#: admin/class-hf-woocommerce-subscription-admin.php:442
+#, php-format
+msgid "Expired <span class=\"count\">(%s)</span>"
+msgstr "Verlopen <span class=\"count\">(%s)</span>"
+
+#: admin/class-hf-woocommerce-subscription-admin.php:443
+#, php-format
+msgid "Pending Cancellation <span class=\"count\">(%s)</span>"
+msgstr ""
+
+#: admin/class-hf-woocommerce-subscription-admin.php:444
+#, php-format
+msgid "Pending <span class=\"count\">(%s)</span>"
+msgstr "In afwachting <span class=\"count\">(%s)</span>"
+
+#: admin/class-hf-woocommerce-subscription-admin.php:445
+#, php-format
+msgid "On hold <span class=\"count\">(%s)</span>"
+msgstr "In de wacht <span class=\"count\">(%s)</span>"
+
+#: admin/class-hf-woocommerce-subscription-admin.php:446
+#, php-format
+msgid "Cancelled <span class=\"count\">(%s)</span>"
+msgstr "Geannuleerd <span class=\"count\">(%s)</span>"
+
+#: admin/class-hf-woocommerce-subscription-admin.php:470
+#: includes/class-hf-date-time-functions.php:31
+msgid "Never expire"
+msgstr "Verloopt nooit"
+
+#: admin/class-hf-woocommerce-subscription-admin.php:474
+#: includes/class-hf-date-time-functions.php:35
+msgid "1 day"
+msgstr "1 dag"
+
+#: admin/class-hf-woocommerce-subscription-admin.php:478
+#: includes/class-hf-date-time-functions.php:39
+msgid "1 week"
+msgstr "1 week"
+
+#: admin/class-hf-woocommerce-subscription-admin.php:482
+#: includes/class-hf-date-time-functions.php:43
+msgid "1 month"
+msgstr "1 maand"
+
+#: admin/class-hf-woocommerce-subscription-admin.php:486
+#: includes/class-hf-date-time-functions.php:47
+msgid "1 year"
+msgstr "1 jaar"
+
+#: admin/class-hf-woocommerce-subscription-admin.php:508
+#: includes/components/action-scheduler/classes/ActionScheduler_AdminView.php:120
+#: public/templates/myaccount/related-subscriptions.php:14
+#: public/templates/myaccount/related-subscriptions.php:28
+#: public/templates/myaccount/subscriptions.php:25
+#: public/templates/myaccount/subscriptions.php:39
+#: public/templates/myaccount/view-subscription.php:23
+msgid "Status"
+msgstr "Status"
+
+#: admin/class-hf-woocommerce-subscription-admin.php:509
+msgid "Items"
+msgstr "Items"
+
+#: admin/class-hf-woocommerce-subscription-admin.php:510
+#: public/templates/myaccount/related-subscriptions.php:16
+#: public/templates/myaccount/related-subscriptions.php:34
+#: public/templates/myaccount/subscriptions.php:27
+#: public/templates/myaccount/subscriptions.php:52
+#: public/templates/myaccount/view-subscription.php:92
+msgid "Total"
+msgstr "Totaal"
+
+#: admin/class-hf-woocommerce-subscription-admin.php:511
+#: includes/subscription-common-functions.php:578
+#: public/templates/myaccount/view-subscription.php:27
+msgid "Start Date"
+msgstr "Start Datum"
+
+#: admin/class-hf-woocommerce-subscription-admin.php:512
+#: includes/subscription-common-functions.php:579
+#: public/templates/myaccount/related-subscriptions.php:15
+#: public/templates/myaccount/related-subscriptions.php:31
+#: public/templates/myaccount/subscriptions.php:42
+msgid "Next Payment"
+msgstr "Volgende betaling"
+
+#: admin/class-hf-woocommerce-subscription-admin.php:513
+msgid "Orders"
+msgstr "Bestellingen"
+
+#: admin/class-hf-woocommerce-subscription-admin.php:550
+msgid "Billing:"
+msgstr "Facturatie:"
+
+#: admin/class-hf-woocommerce-subscription-admin.php:554
+#, php-format
+msgid "Email: %s"
+msgstr "E-mail: %s"
+
+#: admin/class-hf-woocommerce-subscription-admin.php:558
+#, php-format
+msgid "Tel: %s"
+msgstr "Tel: %s"
+
+#: admin/class-hf-woocommerce-subscription-admin.php:583
+#, php-format
+msgid "%1$s#%2$s%3$s for %4$s"
+msgstr "%1$s#%2$s%3$s voor %4$s"
+
+#: admin/class-hf-woocommerce-subscription-admin.php:584
+msgid "Show more details"
+msgstr "Weergeef meer details"
+
+#: admin/class-hf-woocommerce-subscription-admin.php:608
+#: includes/subscription-common-functions.php:308
+msgid "Reactivate"
+msgstr "Opnieuw activeren"
+
+#: admin/class-hf-woocommerce-subscription-admin.php:609
+#: includes/subscription-common-functions.php:303
+msgid "Suspend"
+msgstr "Pauzeren"
+
+#: admin/class-hf-woocommerce-subscription-admin.php:610
+#: admin/class-hf-woocommerce-subscription-admin.php:625
+#: includes/class-hf-plugin-uninstall-feedback.php:89
+#: includes/subscription-common-functions.php:321
+msgid "Cancel"
+msgstr "Annuleren"
+
+#: admin/class-hf-woocommerce-subscription-admin.php:611
+#: admin/class-hf-woocommerce-subscription-admin.php:640
+msgid "Trash"
+msgstr "Prullenbak"
+
+#: admin/class-hf-woocommerce-subscription-admin.php:612
+#: admin/class-hf-woocommerce-subscription-admin.php:644
+msgid "Delete Permanently"
+msgstr "Permanent verwijderen"
+
+#: admin/class-hf-woocommerce-subscription-admin.php:619
+msgid ""
+" ( Canceling here will not cancel from PayPal. Need to cancel by customer "
+"from PayPal dashboard under pre-approved payments ) "
+msgstr ""
+"(Annuleren hier zullen niet annuleren van PayPal. Wilt u annuleren door "
+"klant van PayPal dashboard onder vooraf goedgekeurde betalingen)"
+
+#: admin/class-hf-woocommerce-subscription-admin.php:638
+msgid "Restore this item from the Trash"
+msgstr "Herstel dit artikel uit de Prullenbak"
+
+#: admin/class-hf-woocommerce-subscription-admin.php:638
+msgid "Restore"
+msgstr "Herstellen"
+
+#: admin/class-hf-woocommerce-subscription-admin.php:640
+msgid "Move this item to the Trash"
+msgstr "Dit item verplaatsen naar de prullenbak"
+
+#: admin/class-hf-woocommerce-subscription-admin.php:644
+msgid "Delete this item permanently"
+msgstr "Dit item permanent verwijderen"
+
+#: admin/class-hf-woocommerce-subscription-admin.php:650
+msgid "Cancel Now"
+msgstr "Nu Annuleren"
+
+#: admin/class-hf-woocommerce-subscription-admin.php:698
+#: public/templates/myaccount/subscriptions.php:46
+#, php-format
+msgid "Via %s"
+msgstr "Via %s"
+
+#: admin/class-hf-woocommerce-subscription-admin.php:737
+msgid "No Related Orders"
+msgstr "Overzicht abonnement"
+
+#: admin/class-hf-woocommerce-subscription-admin.php:754
+#, php-format
+msgid "Could not find subscription with ID #%d."
+msgstr "Konden niet vondst abonnement met ID #%d."
+
+#: admin/class-hf-woocommerce-subscription-admin.php:884
+msgid "All subscription items have been removed from the cart."
+msgstr "Alle gekoppelde abonnement-items zijn verwijderd uit de winkelmand."
+
+#: admin/class-hf-woocommerce-subscription-admin.php:993
+#, php-format
+msgid "Error %d: Unable to create subscription. Please try again."
+msgstr ""
+"Fout %d Niet mogelijk om het abonnement aan te maken. Probeer het nog eens."
+
+#: admin/class-hf-woocommerce-subscription-admin.php:1007
+#, php-format
+msgid "Error %d: Unable to add tax to subscription. Please try again."
+msgstr ""
+"Fout %d: Niet mogelijk om btw toe te voegen aan het abonnement. Probeer het "
+"nog eens."
+
+#: admin/class-hf-woocommerce-subscription-admin.php:1017
+#, php-format
+msgid "Error %d: Unable to create order. Please try again."
+msgstr "Fout %d: kan geen bestelling aanmaken. Probeer het nog eens."
+
+#: admin/class-hf-woocommerce-subscription-admin.php:1229
+msgid "Process renewal"
+msgstr "Verlenging doorvoeren"
+
+#: admin/class-hf-woocommerce-subscription-admin.php:1232
+msgid "Create pending renewal order"
+msgstr "Verlengingsorder aanmaken"
+
+#: admin/class-hf-woocommerce-subscription-admin.php:1235
+msgid "Retry Renewal Payment"
+msgstr "Verlengingsbetaling opnieuw uitvoeren"
+
+#: admin/class-hf-woocommerce-subscription-admin.php:1243
+msgid "Process renewal requested by admin."
+msgstr "Proces van vernieuwing gevraagd door admin."
+
+#: admin/class-hf-woocommerce-subscription-admin.php:1256
+msgid "Create pending renewal order requested by admin action."
+msgstr "Maak een hangende vernieuwingsorder aangevraagd door admin actie."
+
+#: admin/class-hf-woocommerce-subscription-admin.php:1270
+msgid "Subscription renewal payment due:"
+msgstr "Abonnementsvernieuwing betaling verschuldigd:"
+
+#: admin/class-hf-woocommerce-subscription-admin.php:1277
+msgid ""
+"Error: Unable to create renewal order from scheduled payment. Please try "
+"again."
+msgstr ""
+"Fout: kan geen vernieuwings bestelling aanmaken voor ingeplande betaling. "
+"Probeer het opnieuw."
+
+#: admin/class-hf-woocommerce-subscription-admin.php:1415
+msgid "Subscription status changed by bulk edit:"
+msgstr "Abonnement status gewijzigd door bulkbewerking:"
+
+#: admin/class-hf-woocommerce-subscription-admin.php:1487
+msgid "Resubscribe Order"
+msgstr "Aanvraag voor opnieuw abonneren"
+
+#: admin/class-hf-woocommerce-subscription-admin.php:1511
+#: includes/class-hf-woocommerce-subscription.php:252
+#, php-format
+msgid "Subscription does not exist in scheduled action: %d"
+msgstr "Abonnement bestaat niet in geplande actie: %d"
+
+#: admin/class-hf-woocommerce-subscription-admin.php:1573
+#, php-format
+msgid "Order %s created to record renewal."
+msgstr "Bestelling %s gemaakt voor verlenging van uw abonnement."
+
+#: admin/class-hf-woocommerce-subscription-admin.php:1582
+msgid "Support Recurring Pay"
+msgstr "Ondersteuning voor terugkerende betaling"
+
+#: admin/class-hf-woocommerce-subscription-admin.php:1591
+msgid "Yes"
+msgstr "Ja"
+
+#: admin/class-hf-woocommerce-subscription-admin.php:1593
+msgid "No"
+msgstr "Nee"
+
+#: admin/class-hf-woocommerce-subscription-admin.php:1607
+#: admin/class-hf-woocommerce-subscription-admin.php:1609
+msgid "Subscribe Now"
+msgstr "Schrijf u nu in"
+
+#: admin/templates/subscription/product-price-fields.php:16
+msgid "Choose the subscription price, interval and period."
+msgstr ""
+"Selecteer het abonnement, de prijs, de betalingsinterval en de periode."
+
+#: admin/templates/subscription/product-price-fields.php:21
+#, php-format
+msgid "Subscription price (%s)"
+msgstr "Prijs van het abonnement (%s)"
+
+#: admin/templates/subscription/product-price-fields.php:24
+msgid "Subscription interval"
+msgstr "Interval"
+
+#: admin/templates/subscription/product-price-fields.php:30
+msgid "Subscription period"
+msgstr "Periode"
+
+#: admin/templates/subscription/product-price-fields.php:44
+msgid "Subscription length"
+msgstr "LIdmaatschapsduur"
+
+#: admin/templates/subscription/product-price-fields.php:47
+msgid "Automatically expire the subscription after this length of time."
+msgstr "Automatisch het abonnement na zo lang te vervallen."
+
+#: includes/class-hf-date-time-functions.php:15
+#: includes/class-hf-date-time-functions.php:143
+msgid "day"
+msgstr "dag"
+
+#: includes/class-hf-date-time-functions.php:16
+#: includes/class-hf-date-time-functions.php:144
+msgid "week"
+msgstr "week"
+
+#: includes/class-hf-date-time-functions.php:17
+#: includes/class-hf-date-time-functions.php:145
+msgid "month"
+msgstr "maand"
+
+#: includes/class-hf-date-time-functions.php:18
+#: includes/class-hf-date-time-functions.php:146
+msgid "year"
+msgstr "jaar"
+
+#: includes/class-hf-date-time-functions.php:122
+msgid "every"
+msgstr "iedere"
+
+#: includes/class-hf-date-time-functions.php:126
+#: includes/class-subscriptions-product.php:122
+#, php-format
+msgid "every %s"
+msgstr "iedere %s"
+
+#: includes/class-hf-date-time-functions.php:278
+#: includes/components/class-subscription.php:786
+#, php-format
+msgid "In %s"
+msgstr "In %s"
+
+#: includes/class-hf-date-time-functions.php:280
+#: includes/components/class-subscription.php:788
+#, php-format
+msgid "%s ago"
+msgstr "%s geleden"
+
+#: includes/class-hf-plugin-uninstall-feedback.php:19
+msgid "I couldn't understand how to make it work"
+msgstr "Ik begrijp niet hoe ik dit moet instellen"
+
+#: includes/class-hf-plugin-uninstall-feedback.php:21
+msgid "Would you like us to assist you?"
+msgstr "Wil je dat wij je helpen"
+
+#: includes/class-hf-plugin-uninstall-feedback.php:25
+msgid "I found a better plugin"
+msgstr "Ik heb een betere plugin gevonden"
+
+#: includes/class-hf-plugin-uninstall-feedback.php:27
+msgid "Which plugin?"
+msgstr "Welke plugin?"
+
+#: includes/class-hf-plugin-uninstall-feedback.php:31
+msgid "The plugin is great, but I need specific feature that you don't support"
+msgstr ""
+"Deze plugin is goed, maar ik heb een specifieke functie nodig die jullie "
+"niet ondersteunen"
+
+#: includes/class-hf-plugin-uninstall-feedback.php:33
+msgid "Could you tell us more about that feature?"
+msgstr "Kan je ons meer vertellen over die functie?"
+
+#: includes/class-hf-plugin-uninstall-feedback.php:37
+msgid "The plugin is not working"
+msgstr "De plugin werkt niet"
+
+#: includes/class-hf-plugin-uninstall-feedback.php:39
+msgid "Could you tell us a bit more whats not working?"
+msgstr "Kun je ons iets meer vertellen over wat er niet werkt?"
+
+#: includes/class-hf-plugin-uninstall-feedback.php:43
+msgid "It's not what I was looking for"
+msgstr "Dat is niet waar ik naar opzoek was"
+
+#: includes/class-hf-plugin-uninstall-feedback.php:49
+msgid "The plugin didn't work as expected"
+msgstr "De plugin werkte niet als verwacht"
+
+#: includes/class-hf-plugin-uninstall-feedback.php:51
+msgid "What did you expect?"
+msgstr "Wat verwachtte je?"
+
+#: includes/class-hf-plugin-uninstall-feedback.php:57
+msgid "Could you tell us a bit more?"
+msgstr "Kun je ons wat meer vertellen?"
+
+#: includes/class-hf-plugin-uninstall-feedback.php:75
+msgid "If you have a moment, please let us know why you are deactivating:"
+msgstr ""
+"Als je een ogenblikje hebt, kun je ons laten weten waarom je de plugin "
+"deactiveert:"
+
+#: includes/class-hf-plugin-uninstall-feedback.php:87
+msgid "I rather wouldn't say"
+msgstr "Zeg ik liever niet"
+
+#: includes/class-hf-plugin-uninstall-feedback.php:88
+msgid "Submit & Deactivate"
+msgstr "Versturen & deactiveren"
+
+#: includes/class-hf-woocommerce-subscription-activator.php:27
+msgid "HF Subscription Plugin not activated. WooCommerce is required."
+msgstr "HF abonnement Plugin niet geactiveerd. WooCommerce is vereist."
+
+#: includes/class-hf-woocommerce-subscription.php:275
+#, php-format
+msgid ""
+"<li class=\"hf-premium-link\"><a  target=\"_blank\" href=\"%s\" class=\"hf-"
+"nav-tab-premium\">Upgrade to premium</a></li>"
+msgstr ""
+"<li class=\"hf-premium-link\"> <a  target=\"_blank\" href=\"%s\" class=\"hf-"
+"nav-tab-premium\">Upgrade naar premium</a> </li>"
+
+#: includes/class-hf-woocommerce-subscription.php:277
+msgid "<li>Supports Simple and <b>Variable subscriptions</b>.</li>"
+msgstr "<li>Ondersteunt Simple en <b>variabele abonnementen</b>.</li>"
+
+#: includes/class-hf-woocommerce-subscription.php:278
+msgid "<li>Purchase Subscription and normal products in the same order.</li>"
+msgstr "<li> Koop Abonnement en normale producten in dezelfde volgorde. </li>"
+
+#: includes/class-hf-woocommerce-subscription.php:279
+msgid "<li>Frequent releases with new features and compatibility updates.</li>"
+msgstr ""
+"<li> Frequente releases met nieuwe functies en compatibiliteitsupdates. </li>"
+
+#: includes/class-hf-woocommerce-subscription.php:280
+msgid ""
+"<li>Subscription <b>Trial period</b> and <b>Signup-Fee</b> options.</li>"
+msgstr "<li>Abonnement <b>proefperiode</b> en <b>Signup-Fee</b> opties.</li>"
+
+#: includes/class-hf-woocommerce-subscription.php:291
+msgid "Subscription Details"
+msgstr "Abonnement Gegevens"
+
+#: includes/class-hf-woocommerce-subscription.php:292
+msgid "Billing Schedule Details"
+msgstr "Facturering schema Details"
+
+#: includes/class-hf-woocommerce-subscription.php:295
+#: includes/class-hf-woocommerce-subscription.php:298
+msgid "Related Orders"
+msgstr "Overzicht abonnement"
+
+#: includes/class-subscriptions-cart.php:60
+msgid ""
+"A subscription renewal has been removed from your cart. Multiple "
+"subscriptions can not be purchased at the same time."
+msgstr ""
+"Een abonnementsverlenging is verwijderd uit je winkelmand. Meerdere "
+"abonnementen kunnen niet op hetzelfde moment worden gekocht."
+
+#: includes/class-subscriptions-cart.php:63
+msgid ""
+"A subscription has been removed from your cart. Due to payment gateway "
+"restrictions, different subscription products can not be purchased at the "
+"same time."
+msgstr ""
+"Een abonnement is verwijderd uit uw winkelmand. Vanwege beperkingen in de "
+"betalingsmethode is het op dit moment niet mogelijk om verschillende "
+"abonnementen tegelijkertijd te kopen."
+
+#: includes/class-subscriptions-cart.php:66
+msgid ""
+"A subscription has been removed from your cart. Products and subscriptions "
+"can not be purchased at the same time."
+msgstr ""
+"Een abonnement is verwijderd uit uw winkelmand. Producten en abonnementen "
+"kunnen niet tegelijkertijd worden gekocht."
+
+#: includes/class-subscriptions-cart.php:353
+msgid "Please enter a valid postcode/ZIP."
+msgstr "Vul een geldige postcode in."
+
+#: includes/class-subscriptions-cart.php:475
+msgid ""
+"That subscription product can not be added to your cart as it already "
+"contains a subscription renewal."
+msgstr ""
+"Dit abonnement kan niet aan uw winkelwagen worden toegevoegd, omdat het al "
+"een abonnement-verlenging bevat."
+
+#: includes/class-subscriptions-cart.php:513
+msgid "Invalid recurring shipping method."
+msgstr "Ongeldige verzendmethode."
+
+#: includes/class-subscriptions-product.php:126
+#: includes/subscription-price-functions.php:58
+#, php-format
+msgid "%1$s for %2$s"
+msgstr "%1$s voor %2$s"
+
+#: includes/components/action-scheduler/classes/ActionScheduler_AdminView.php:81
+msgid "Published"
+msgstr "Gepubliceerd"
+
+#: includes/components/action-scheduler/classes/ActionScheduler_AdminView.php:81
+#: includes/components/action-scheduler/classes/ActionScheduler_AdminView.php:181
+msgid "Complete"
+msgstr "Compleet"
+
+#: includes/components/action-scheduler/classes/ActionScheduler_AdminView.php:119
+msgid "Hook"
+msgstr "Haak"
+
+#: includes/components/action-scheduler/classes/ActionScheduler_AdminView.php:121
+msgid "Arguments"
+msgstr "Argumenten"
+
+#: includes/components/action-scheduler/classes/ActionScheduler_AdminView.php:122
+msgid "Group"
+msgstr "Groep"
+
+#: includes/components/action-scheduler/classes/ActionScheduler_AdminView.php:124
+msgid "Scheduled Date"
+msgstr "Geplande Datum"
+
+#: includes/components/action-scheduler/classes/ActionScheduler_AdminView.php:129
+msgid "Started"
+msgstr "Gestart"
+
+#: includes/components/action-scheduler/classes/ActionScheduler_AdminView.php:131
+msgid "Completed"
+msgstr "Voltooid"
+
+#: includes/components/action-scheduler/classes/ActionScheduler_AdminView.php:135
+msgid "Claim ID"
+msgstr "Bestelling ID"
+
+#: includes/components/action-scheduler/classes/ActionScheduler_AdminView.php:136
+msgid "Log"
+msgstr "Logboek"
+
+#: includes/components/action-scheduler/classes/ActionScheduler_AdminView.php:206
+#: includes/components/action-scheduler/classes/ActionScheduler_AdminView.php:215
+#, php-format
+msgid " (%s ago)"
+msgstr "(%s geleden)"
+
+#: includes/components/action-scheduler/classes/ActionScheduler_AdminView.php:247
+msgid "Process the action now as if it were run as part of a queue"
+msgstr ""
+"Verwerk de actie nu alsof deze wordt uitgevoerd als onderdeel van een "
+"wachtrij"
+
+#: includes/components/action-scheduler/classes/ActionScheduler_AdminView.php:247
+msgid "Run"
+msgstr "Uitvoeren"
+
+#: includes/components/action-scheduler/classes/ActionScheduler_AdminView.php:325
+#, php-format
+msgid ""
+"Maximum simulatenous batches already in progress (%s queues). No actions "
+"will be processed until the current batches are complete."
+msgstr ""
+"Maximale gelijktijdige batches al aan de gang (%s wachtrijen). Er zullen "
+"geen acties worden verwerkt totdat de huidige batches zijn voltooid."
+
+#: includes/components/action-scheduler/classes/ActionScheduler_AdminView.php:334
+#, php-format
+msgid "Successfully executed the action: %s"
+msgstr "De actie is succesvol uitgevoerd: %s"
+
+#: includes/components/action-scheduler/classes/ActionScheduler_AdminView.php:338
+#, php-format
+msgid "Could not execute the action: %s"
+msgstr "Kon de actie niet uitvoeren: %s"
+
+#: includes/components/action-scheduler/classes/ActionScheduler_AdminView.php:370
+msgid "Now!"
+msgstr "Nu!"
+
+#: includes/components/action-scheduler/classes/ActionScheduler_AdminView.php:457
+#: includes/components/action-scheduler/classes/ActionScheduler_AdminView.php:460
+msgid "Action updated."
+msgstr "Actie bijgewerkt."
+
+#: includes/components/action-scheduler/classes/ActionScheduler_AdminView.php:458
+msgid "Custom field updated."
+msgstr "Extra veld bijgewerkt."
+
+#: includes/components/action-scheduler/classes/ActionScheduler_AdminView.php:459
+msgid "Custom field deleted."
+msgstr "Aangepast Logo."
+
+#: includes/components/action-scheduler/classes/ActionScheduler_AdminView.php:461
+#, php-format
+msgid "Action restored to revision from %s"
+msgstr "Actie hersteld tot revisie van%s"
+
+#: includes/components/action-scheduler/classes/ActionScheduler_AdminView.php:462
+msgid "Action scheduled."
+msgstr "Actie ingepland."
+
+#: includes/components/action-scheduler/classes/ActionScheduler_AdminView.php:463
+msgid "Action saved."
+msgstr "Actie opgeslagen."
+
+#: includes/components/action-scheduler/classes/ActionScheduler_AdminView.php:464
+msgid "Action submitted."
+msgstr "Actie verstuurd."
+
+#: includes/components/action-scheduler/classes/ActionScheduler_AdminView.php:465
+#, php-format
+msgid "Action scheduled for: <strong>%1$s</strong>"
+msgstr "Abonnement gepland voor: <strong>%1$s</strong>"
+
+#: includes/components/action-scheduler/classes/ActionScheduler_AdminView.php:465
+msgid "M j, Y @ G:i"
+msgstr "M j, Y @ G:i"
+
+#: includes/components/action-scheduler/classes/ActionScheduler_AdminView.php:466
+msgid "Action draft updated."
+msgstr "Conceptactie bijgewerkt."
+
+#: includes/components/action-scheduler/classes/ActionScheduler_QueueRunner.php:138
+msgid "Every minute"
+msgstr "Elke minuut"
+
+#: includes/components/action-scheduler/classes/ActionScheduler_wpCommentLogger.php:248
+msgid "action created"
+msgstr "Abonnement gemaakt"
+
+#: includes/components/action-scheduler/classes/ActionScheduler_wpCommentLogger.php:252
+msgid "action canceled"
+msgstr "Niet geannuleerd"
+
+#: includes/components/action-scheduler/classes/ActionScheduler_wpCommentLogger.php:256
+msgid "action started"
+msgstr "Abonnement opgeslagen"
+
+#: includes/components/action-scheduler/classes/ActionScheduler_wpCommentLogger.php:260
+msgid "action complete"
+msgstr "Aanmelding afgerond"
+
+#: includes/components/action-scheduler/classes/ActionScheduler_wpCommentLogger.php:264
+#, php-format
+msgid "action failed: %s"
+msgstr "actie mislukt: %s"
+
+#: includes/components/action-scheduler/classes/ActionScheduler_wpCommentLogger.php:268
+#, php-format
+msgid "action timed out after %s seconds"
+msgstr "actie time-out na %s seconden"
+
+#: includes/components/action-scheduler/classes/ActionScheduler_wpCommentLogger.php:273
+#, php-format
+msgid "unexpected shutdown: PHP Fatal error %s in %s on line %s"
+msgstr "onverwachte uitschakeling: PHP Fatal error %s in %s op regel %s"
+
+#: includes/components/action-scheduler/classes/ActionScheduler_wpCommentLogger.php:278
+msgid "action reset"
+msgstr "actie hersteld"
+
+#: includes/components/action-scheduler/classes/ActionScheduler_wpPostStore.php:25
+#, php-format
+msgid "Error saving action: %s"
+msgstr "Fout tijdens opslaan actie: %s"
+
+#: includes/components/action-scheduler/classes/ActionScheduler_wpPostStore.php:44
+#: includes/components/action-scheduler/classes/ActionScheduler_wpPostStore.php:53
+msgid "Invalid schedule. Cannot save action."
+msgstr "Ongeldig schema. Kan actie niet opslaan."
+
+#: includes/components/action-scheduler/classes/ActionScheduler_wpPostStore.php:69
+msgid "Unable to save action."
+msgstr "Kan actie niet opslaan."
+
+#: includes/components/action-scheduler/classes/ActionScheduler_wpPostStore.php:319
+#: includes/components/action-scheduler/classes/ActionScheduler_wpPostStore.php:328
+#: includes/components/action-scheduler/classes/ActionScheduler_wpPostStore.php:354
+#: includes/components/action-scheduler/classes/ActionScheduler_wpPostStore.php:489
+#, php-format
+msgid "Unidentified action %s"
+msgstr "Onbekende actie %s"
+
+#: includes/components/action-scheduler/classes/ActionScheduler_wpPostStore.php:410
+msgid "Unable to claim actions. Database error."
+msgstr "Onmogelijk om actie op te eisen. Database fout."
+
+#: includes/components/action-scheduler/classes/ActionScheduler_wpPostStore.php:440
+#, php-format
+msgid "Unable to unlock claim %s. Database error."
+msgstr "Onmogelijk om actie %s te ontsluiten. Database fout."
+
+#: includes/components/action-scheduler/classes/ActionScheduler_wpPostStore.php:456
+#, php-format
+msgid "Unable to unlock claim on action %s. Database error."
+msgstr "Onmogelijk om claim op actie %s te ontsluiten. Database fout."
+
+#: includes/components/action-scheduler/classes/ActionScheduler_wpPostStore.php:467
+#, php-format
+msgid "Unable to mark failure on action %s. Database error."
+msgstr "Onmogelijk om fout op actie %s te markeren. Database fout."
+
+#: includes/components/action-scheduler/classes/ActionScheduler_wpPostStore_PostTypeRegistrar.php:22
+#: includes/components/action-scheduler/classes/ActionScheduler_wpPostStore_PostTypeRegistrar.php:33
+msgid "Scheduled Actions"
+msgstr "Geplande acties"
+
+#: includes/components/action-scheduler/classes/ActionScheduler_wpPostStore_PostTypeRegistrar.php:23
+msgid "Scheduled actions are hooks triggered on a cetain date and time."
+msgstr ""
+"Geplande acties zijn “hooks” die op een bepaalde datum en tijd getriggerd "
+"worden."
+
+#: includes/components/action-scheduler/classes/ActionScheduler_wpPostStore_PostTypeRegistrar.php:34
+msgid "Scheduled Action"
+msgstr "Geplande actie"
+
+#: includes/components/action-scheduler/classes/ActionScheduler_wpPostStore_PostTypeRegistrar.php:36
+msgid "Add"
+msgstr "Toevoegen"
+
+#: includes/components/action-scheduler/classes/ActionScheduler_wpPostStore_PostTypeRegistrar.php:37
+msgid "Add New Scheduled Action"
+msgstr "Voeg nieuw actie toe"
+
+#: includes/components/action-scheduler/classes/ActionScheduler_wpPostStore_PostTypeRegistrar.php:39
+msgid "Edit Scheduled Action"
+msgstr "Bewerk Geplande Actie"
+
+#: includes/components/action-scheduler/classes/ActionScheduler_wpPostStore_PostTypeRegistrar.php:40
+msgid "New Scheduled Action"
+msgstr "Nieuw Geplande Actie"
+
+#: includes/components/action-scheduler/classes/ActionScheduler_wpPostStore_PostTypeRegistrar.php:41
+#: includes/components/action-scheduler/classes/ActionScheduler_wpPostStore_PostTypeRegistrar.php:42
+msgid "View Action"
+msgstr "Bekijk Actie"
+
+#: includes/components/action-scheduler/classes/ActionScheduler_wpPostStore_PostTypeRegistrar.php:43
+msgid "Search Scheduled Actions"
+msgstr "Zoek Ingeplande Acties"
+
+#: includes/components/action-scheduler/classes/ActionScheduler_wpPostStore_PostTypeRegistrar.php:44
+msgid "No actions found"
+msgstr "Geen acties gevonden"
+
+#: includes/components/action-scheduler/classes/ActionScheduler_wpPostStore_PostTypeRegistrar.php:45
+msgid "No actions found in trash"
+msgstr "Geen acties in de prullenbak gevonden"
+
+#: includes/components/action-scheduler/classes/ActionScheduler_wpPostStore_TaxonomyRegistrar.php:16
+msgid "Action Group"
+msgstr "Actie Groep"
+
+#: includes/components/class-subscription.php:174
+msgid "Payment received."
+msgstr "Betaling ontvangen."
+
+#: includes/components/class-subscription.php:363
+#, php-format
+msgid "Unable to change subscription status to \"%s\"."
+msgstr "Niet in staat om de status van abonnement te veranderen naar \"%s\"."
+
+#: includes/components/class-subscription.php:438
+#, php-format
+msgid "Unable to change subscription status to \"%s\". Exception: %s"
+msgstr ""
+"Niet in staat om de status van abonnement te veranderen naar %s. "
+"Uitzonderingen %s"
+
+#: includes/components/class-subscription.php:505
+#, php-format
+msgid "Status changed from %1$s to %2$s."
+msgstr "Bestellingsstatus gewijzigd van %1$s naar %2$s."
+
+#: includes/components/class-subscription.php:512
+#, php-format
+msgid "Status set to %s."
+msgstr "Bestellingsstatus gewijzigd naar %s."
+
+#: includes/components/class-subscription.php:795
+msgid "Not yet ended"
+msgstr "Nog niet afgelopen"
+
+#: includes/components/class-subscription.php:798
+msgid "Not cancelled"
+msgstr "Niet geannuleerd"
+
+#: includes/components/class-subscription.php:802
+msgid "-"
+msgstr "-"
+
+#: includes/components/class-subscription.php:888
+msgid "The start date of a subscription can not be deleted, only updated."
+msgstr ""
+"De startdatum van een abonnement kan niet worden verwijderd, alleen worden "
+"bijgewerkt."
+
+#: includes/components/class-subscription.php:892
+#, php-format
+msgid ""
+"The %s date of a subscription can not be deleted. You must delete the order."
+msgstr ""
+"De %s betaaldatum van een abonnement kan niet worden verwijderd. U moet de "
+"bestelling verwijderen."
+
+#: includes/components/class-subscription.php:1150
+msgid "Payment failed."
+msgstr "Betaling mislukt."
+
+#: includes/components/class-subscription.php:1154
+msgid "Subscription Cancelled: maximum number of failed payments reached."
+msgstr "Abonnement geannuleerd: maximum aantal mislukte betalingen bereikt."
+
+#: includes/components/class-subscription.php:1286
+msgid "Manual Renewal"
+msgstr "Handmatige verlenging"
+
+#: includes/components/class-subscription.php:1336
+msgid "Payment method meta must be an array."
+msgstr "Betaling methode meta moet een array zijn."
+
+#: includes/components/class-subscription.php:1375
+#: includes/subscription-renewal-functions.php:177
+msgid "Backordered"
+msgstr "Na-besteld"
+
+#: includes/components/class-subscription.php:1437
+msgid "Invalid format. First parameter needs to be an array."
+msgstr "Ongeldige indeling. Eerste parameter moet een array zijn."
+
+#: includes/components/class-subscription.php:1441
+msgid "Invalid data. First parameter was empty when passed to update_dates()."
+msgstr ""
+"Onjuiste data. Eerste parameter was leeg toen deze werd doorgegeven aan "
+"update_dates()."
+
+#: includes/components/class-subscription.php:1448
+msgid ""
+"Invalid data. First parameter has a date that is not in the registered date "
+"types."
+msgstr ""
+"Onjuiste data. Eerste parameter heeft een datum die niet in de "
+"geregistreerde datumtypen voorkomt."
+
+#: includes/components/class-subscription.php:1467
+#, php-format
+msgid "Invalid %s date. The date must be of the format: \"Y-m-d H:i:s\"."
+msgstr "Ongeldige %s datum. Geef de datum als volgt: \"d-m-Y H:i:s\"."
+
+#: includes/components/class-subscription.php:1498
+#, php-format
+msgid "The %s date must occur after the cancellation date."
+msgstr "De %s datum moet na de annuleringsdatum liggen."
+
+#: includes/components/class-subscription.php:1503
+#, php-format
+msgid "The %s date must occur after the last payment date."
+msgstr "De %s datum moet na de laatste betalingsdatum liggen."
+
+#: includes/components/class-subscription.php:1506
+#, php-format
+msgid "The %s date must occur after the next payment date."
+msgstr "De %s datum moet na de betalingsdatum liggen."
+
+#: includes/hf-includes/class-hf-paypal-reference-ipn-handler.php:80
+msgid "Billing agreement cancelled at PayPal."
+msgstr "Factureringsovereenkomst geannuleerd door PayPal."
+
+#: includes/hf-includes/class-hf-paypal-standard-ipn-handler.php:200
+msgid "IPN subscription sign up completed."
+msgstr "IPN abonnementsaanmelding is gelukt."
+
+#: includes/hf-includes/class-hf-paypal-standard-ipn-handler.php:232
+#: includes/hf-includes/class-hf-paypal-standard-ipn-handler.php:297
+msgid "IPN subscription payment completed."
+msgstr "IPN abonnementsbetaling voltooid."
+
+#: includes/hf-includes/class-hf-paypal-standard-ipn-handler.php:261
+msgid "IPN subscription failing payment method changed."
+msgstr "IPN-abonnement mislukte betaalmethode gewijzigd."
+
+#: includes/hf-includes/class-hf-paypal-standard-ipn-handler.php:340
+msgid "IPN subscription suspended."
+msgstr "IPN abonnement gepauzeerd."
+
+#: includes/hf-includes/class-hf-paypal-standard-ipn-handler.php:359
+msgid "IPN subscription cancelled."
+msgstr "IPN abonnement geannuleerd."
+
+#: includes/hf-includes/class-hf-paypal-standard-ipn-handler.php:374
+msgid "IPN subscription payment failure."
+msgstr "IPN abonnement betaling mislukt."
+
+#: includes/hf-includes/class-hf-paypal-standard-ipn-handler.php:487
+msgid "Invalid PayPal IPN Payload: unable to find matching subscription."
+msgstr ""
+"Ongeldige PayPal IPN Payload: kan een overeenkomend abonnement niet vinden."
+
+#: includes/subscription-cart-functions.php:54
+#: includes/subscription-cart-functions.php:55
+#, php-format
+msgid "Shipping via %s"
+msgstr "Verzending via %s"
+
+#: includes/subscription-cart-functions.php:139
+msgid "Free"
+msgstr "Gratis"
+
+#: includes/subscription-cart-functions.php:163
+msgid "Free shipping coupon"
+msgstr "Gratis verzending code"
+
+#: includes/subscription-cart-functions.php:187
+#, php-format
+msgid "(Includes %s)"
+msgstr "(inclusief %s)"
+
+#: includes/subscription-cart-functions.php:230
+#, php-format
+msgid "First renewal date: %s"
+msgstr "Eerst volgende betaling: %s"
+
+#: includes/subscription-common-functions.php:296
+msgid ""
+"  ( Please cancel the subscription from PayPal dashboard under pre-approved "
+"payments ) "
+msgstr ""
+"(Gelieve te annuleren het abonnement van PayPal dashboard onder vooraf "
+"goedgekeurde betalingen)"
+
+#: includes/subscription-common-functions.php:314
+#: public/templates/single-product/add-to-cart/subscription.php:52
+msgid "Resubscribe"
+msgstr "Doorlopende donatie activeren"
+
+#: includes/subscription-common-functions.php:358
+msgid ""
+"Invalid date. The date must be a string and of the format: \"Y-m-d H:i:s\"."
+msgstr "Ongeldige %s datum. Geef de datum als volgt: “Y-m-d H:i:s”."
+
+#: includes/subscription-common-functions.php:360
+msgid "Subscription start date must be before current day."
+msgstr "Abonnement startdatum moet voor de huidige dag zijn."
+
+#: includes/subscription-common-functions.php:364
+msgid "Invalid subscription customer_id."
+msgstr "Ongeldig inschrijving klant_id."
+
+#: includes/subscription-common-functions.php:368
+msgid "Invalid subscription billing period given."
+msgstr "Ongeldige factuurperiode gegeven."
+
+#: includes/subscription-common-functions.php:372
+msgid ""
+"Invalid subscription billing interval given. Must be an integer greater than "
+"0."
+msgstr ""
+"Ongeldige abonnement factureringsinterval gegeven. Moet een getal groter dan "
+"0 zijn."
+
+#: includes/subscription-common-functions.php:380
+msgid "%b %d, %Y @ %I:%M %p"
+msgstr "%b %d, %Y op %I:%M %p"
+
+#: includes/subscription-common-functions.php:381
+#, php-format
+msgid "Subscription &ndash; %s"
+msgstr "Abonnement &ndash; %s"
+
+#: includes/subscription-common-functions.php:395
+msgid "Invalid subscription status given."
+msgstr "Ongeldige abonnement status gegeven."
+
+#: includes/subscription-common-functions.php:426
+msgid "Invalid data. Orders expected aren't orders."
+msgstr "Ongeldige gegevens. Bestellingen verwacht zijn geen bestellingen."
+
+#: includes/subscription-common-functions.php:430
+msgid "Invalid data. Type of copy is not a string."
+msgstr "Onjuiste data. Type exemplaar is geen string."
+
+#: includes/subscription-common-functions.php:479
+msgid "Pending"
+msgstr "In afwachting"
+
+#: includes/subscription-common-functions.php:480
+msgid "Active"
+msgstr "Actief"
+
+#: includes/subscription-common-functions.php:481
+msgid "On hold"
+msgstr "On hold"
+
+#: includes/subscription-common-functions.php:482
+msgid "Cancelled"
+msgstr "Geannuleerd"
+
+#: includes/subscription-common-functions.php:483
+msgid "Expired"
+msgstr "Verlopen"
+
+#: includes/subscription-common-functions.php:484
+msgid "Pending Cancellation"
+msgstr "In afwachting van annulering"
+
+#: includes/subscription-common-functions.php:493
+msgid "Can not get status name. Status is not a string."
+msgstr "Kan status naam niet ophalen. Status is geen string."
+
+#: includes/subscription-common-functions.php:563
+msgid "Can not get address type display name. Address type is not a string."
+msgstr "Kan weergavenaam van adestype niet ophalen. Adrestype is geen string."
+
+#: includes/subscription-common-functions.php:567
+msgid "Shipping Address"
+msgstr "Verzendadres"
+
+#: includes/subscription-common-functions.php:568
+msgid "Billing Address"
+msgstr "Factuuradres"
+
+#: includes/subscription-common-functions.php:580
+#: public/templates/myaccount/view-subscription.php:31
+msgid "Last Order Date"
+msgstr "Datum laatste bestelling"
+
+#: includes/subscription-common-functions.php:581
+msgid "Cancelled Date"
+msgstr "Opzeg datum"
+
+#: includes/subscription-common-functions.php:582
+#: public/templates/myaccount/view-subscription.php:33
+msgid "End Date"
+msgstr "Eind Datum"
+
+#: includes/subscription-common-functions.php:602
+msgid "Date type is not a string."
+msgstr "Datatype is geen string."
+
+#: includes/subscription-common-functions.php:604
+msgid "Date type can not be an empty string."
+msgstr "Datatype mag geen lege string zijn."
+
+#: includes/subscription-price-functions.php:13
+msgid "up front"
+msgstr "bij aanvang"
+
+#: includes/subscription-price-functions.php:44
+#, php-format
+msgid "%1$s %2$s then %3$s"
+msgstr "%1$s %2$s vervolgens %3$s"
+
+#: includes/subscription-renewal-functions.php:94
+#, php-format
+msgid "\"%s\" passed to the function was not a string."
+msgstr "\"%s\" Geslaagd waren eigenlijke functie, niet een string."
+
+#: includes/subscription-renewal-functions.php:98
+#, php-format
+msgid "\"%s\" is not a valid new order type."
+msgstr "\"%s\" is geen geldig nieuwe besteltype."
+
+#: includes/welcome/welcome.php:6
+msgid "Welcome to Subscription for WooCommerce"
+msgstr "Welkom bij Abonnement voor WooCommerce"
+
+#: includes/welcome/welcome.php:8
+msgid "Supports simple subscription products."
+msgstr "Ondersteunt eenvoudige abonnementsproducten."
+
+#: public/class-hf-woocommerce-subscription-public.php:192
+msgid ""
+"That subscription does not exist. Please contact us if you need assistance."
+msgstr ""
+"Dit abonnement bestaat niet. Neem contact met ons op als u hulp nodig heeft."
+
+#: public/class-hf-woocommerce-subscription-public.php:196
+msgid "Security error. Please contact us if you need assistance."
+msgstr "Beveiligingsfout. Neem contact met ons op als u hulp nodig heeft."
+
+#: public/class-hf-woocommerce-subscription-public.php:200
+msgid "That doesn't appear to be one of your subscriptions."
+msgstr "Dit lijkt niet een ​​van uw abonnementen te zijn."
+
+#: public/class-hf-woocommerce-subscription-public.php:204
+#, php-format
+msgid ""
+"That subscription can not be changed to %s. Please contact us if you need "
+"assistance."
+msgstr ""
+"Dat abonnement kan niet gewijzigd worden naar %s. Neem contact met ons op "
+"als u hulp nodig heeft."
+
+#: public/class-hf-woocommerce-subscription-public.php:222
+msgid ""
+"You can not reactivate that subscription until paying to renew it. Please "
+"contact us if you need assistance."
+msgstr ""
+"U kan dit abonnement niet opnieuw activeren totdat u de betaling voor de "
+"vernieuwing heeft uitgevoerd. Neem contact met ons op als u hulp nodig heeft."
+
+#: public/class-hf-woocommerce-subscription-public.php:232
+msgid ""
+"You can not suspend that subscription - the suspension limit has been "
+"reached. Please contact us if you need assistance."
+msgstr ""
+"U kan dit abonnement niet opschorten - de limiet is bereikt. Neem contact "
+"met ons op als u hulp nodig heeft."
+
+#: public/templates/cart/cart-recurring-shipping.php:15
+msgid "Recurring shipping options can be selected on checkout."
+msgstr ""
+"Terugkerende verzendopties kunnen bij het afrekenen worden geselecteerd."
+
+#: public/templates/cart/cart-recurring-shipping.php:29
+msgid "Shipping costs will be calculated once you have provided your address."
+msgstr "Verzendkosten worden berekend als je jouw adresgegevens ingevuld hebt."
+
+#: public/templates/cart/cart-recurring-shipping.php:31
+msgid ""
+"There are no shipping methods available. Please double check your address, "
+"or contact us if you need any help."
+msgstr ""
+"Er zijn geen verzendmethodes beschikbaar. Controleer a.u.b. jouw adres, of "
+"neem contact met ons op voor hulp."
+
+#: public/templates/checkout/recurring-totals.php:11
+msgid "Recurring Totals"
+msgstr "Terugkerend totalen"
+
+#: public/templates/checkout/recurring-totals.php:21
+#: public/templates/checkout/recurring-totals.php:22
+msgid "Subtotal"
+msgstr "Subtotaal"
+
+#: public/templates/checkout/recurring-totals.php:134
+#: public/templates/checkout/recurring-totals.php:135
+msgid "Recurring Total"
+msgstr "Terugkerend totaal"
+
+#: public/templates/myaccount/related-subscriptions.php:8
+msgid "Related Subscriptions"
+msgstr "Gerelateerde abonnementen"
+
+#: public/templates/myaccount/related-subscriptions.php:17
+#: public/templates/myaccount/subscriptions.php:28
+#: public/templates/myaccount/view-subscription.php:53
+msgid "Actions"
+msgstr "Acties"
+
+#: public/templates/myaccount/related-subscriptions.php:23
+#: public/templates/myaccount/subscriptions.php:35
+msgid "ID"
+msgstr "ID"
+
+#: public/templates/myaccount/related-subscriptions.php:38
+#: public/templates/myaccount/subscriptions.php:56
+msgid "View"
+msgstr "Bekijken"
+
+#: public/templates/myaccount/subscription-account-view.php:57
+#, php-format
+msgid "Subscription #%s"
+msgstr "Mijn abonnement %s"
+
+#: public/templates/myaccount/subscriptions.php:16
+msgid "My Subscriptions"
+msgstr "Mijn abonnementen"
+
+#: public/templates/myaccount/subscriptions.php:24
+msgid "Subscription ID"
+msgstr "Abonnement ID"
+
+#: public/templates/myaccount/subscriptions.php:26
+msgid "Next payment on"
+msgstr "Volgende betaling op"
+
+#: public/templates/myaccount/subscriptions.php:67
+#, php-format
+msgid "No subscriptions found. Find your first subscription in the %sstore%s."
+msgstr ""
+"Geen abonnementen gevonden. Vind uw eerste abonnement in de %sstore %s."
+
+#: public/templates/myaccount/view-subscription.php:11
+msgid "Invalid Subscription."
+msgstr "Ongeldig abonnement."
+
+#: public/templates/myaccount/view-subscription.php:11
+msgid "My Account"
+msgstr "Mijn Account"
+
+#: public/templates/myaccount/view-subscription.php:32
+msgid "Next Payment Date"
+msgstr "Volgende betaaldatum"
+
+#: public/templates/myaccount/view-subscription.php:65
+msgid "Subscription Updates"
+msgstr "Abonnement updates"
+
+#: public/templates/myaccount/view-subscription.php:84
+msgid "Subscription Totals"
+msgstr "Abonnement totalen"
+
+#: public/templates/myaccount/view-subscription.php:91
+msgid "Product"
+msgstr "Product"
+
+#: public/templates/myaccount/view-subscription.php:105
+msgid "Are you sure you want remove this item from your subscription?"
+msgstr "Weet je zeker dat je dit item uit je abonnement wilt verwijderen?"
+
+#: public/templates/single-product/add-to-cart/subscription.php:54
+msgid "You have an active subscription to this product already."
+msgstr "Je bent al abonnee van dit product."
+
+#, fuzzy
+#~ msgid "<li>Supports Simple and Variable subscriptions.</li>"
+#~ msgstr "<li>Ondersteunt eenvoudig en variabele abonnementen.</li>"
+
+#, fuzzy
+#~ msgid "<li>Excellent Support for setting it up.</li>"
+#~ msgstr "<li>Uitstekende ondersteuning voor de oprichting ervan.</li>"

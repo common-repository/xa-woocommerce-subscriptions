@@ -1,0 +1,1478 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2018-07-24 11:37+0530\n"
+"PO-Revision-Date: 2018-07-24 11:38+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.12\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : "
+"2);\n"
+"X-Poedit-KeywordsList: _e;__;esc_attr_e;esc_html_e;_nx;_nx_noop;esc_html__;esc_html_x\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: admin/class-hf-subscription-data-meta-box.php:36
+#, php-format
+msgid "Subscription #%s details"
+msgstr "Детали подписки #%s"
+
+#: admin/class-hf-subscription-data-meta-box.php:43
+msgid "Customer:"
+msgstr "Заказчик:"
+
+#: admin/class-hf-subscription-data-meta-box.php:52
+msgid "View other subscriptions"
+msgstr "Посмотреть другие подписки"
+
+#: admin/class-hf-subscription-data-meta-box.php:64
+#, php-format
+msgid "%1$s (#%2$s &ndash; %3$s)"
+msgstr "%1$s (#%2$s &ndash; %3$s)"
+
+#: admin/class-hf-subscription-data-meta-box.php:71
+msgid "Guest"
+msgstr "Гость"
+
+#: admin/class-hf-subscription-data-meta-box.php:78
+msgid "Subscription status:"
+msgstr "Статус подписки:"
+
+#: admin/class-hf-subscription-data-meta-box.php:96
+msgid "Billing Details"
+msgstr "Детали оплаты"
+
+#: admin/class-hf-subscription-data-meta-box.php:96
+msgid "Load billing address"
+msgstr "Загрузить адрес доставки"
+
+#: admin/class-hf-subscription-data-meta-box.php:102 admin/class-hf-subscription-data-meta-box.php:104
+#: admin/class-hf-subscription-data-meta-box.php:169 admin/class-hf-subscription-data-meta-box.php:171
+msgid "Address"
+msgstr "Адрес"
+
+#: admin/class-hf-subscription-data-meta-box.php:104
+msgid "No billing address set."
+msgstr "Контактная и дополнительная информация не задана."
+
+#: admin/class-hf-subscription-data-meta-box.php:124
+msgid "Payment Method"
+msgstr "Способ оплаты:"
+
+#: admin/class-hf-subscription-data-meta-box.php:127
+#, php-format
+msgid "Gateway ID: [%s]"
+msgstr "Идентификатор шлюза: [%s]"
+
+#: admin/class-hf-subscription-data-meta-box.php:158
+msgid "Shipping Details"
+msgstr "Детали доставки"
+
+#: admin/class-hf-subscription-data-meta-box.php:160
+msgid "Copy from billing"
+msgstr "Скопировать с платежного адреса"
+
+#: admin/class-hf-subscription-data-meta-box.php:161
+msgid "Load shipping address"
+msgstr "Загрузить адрес доставки"
+
+#: admin/class-hf-subscription-data-meta-box.php:171
+msgid "No shipping address set."
+msgstr "Нет заданного адреса доставки."
+
+#: admin/class-hf-subscription-data-meta-box.php:193 admin/class-hf-subscription-data-meta-box.php:219
+msgid "Customer Note:"
+msgstr "Примечание клиента:"
+
+#: admin/class-hf-subscription-data-meta-box.php:220
+msgid "Customer's notes about the order"
+msgstr "Заметки клиента о заказе"
+
+#: admin/class-hf-subscription-data-meta-box.php:286
+#, php-format
+msgid "Error updating some information: %s"
+msgstr "Ошибка при обновлении информации: %s"
+
+#: admin/class-hf-subscription-related-meta-box.php:39 admin/class-hf-woocommerce-subscription-admin.php:395
+#: admin/class-hf-woocommerce-subscription-admin.php:507 admin/class-hf-woocommerce-subscription-admin.php:1463
+#: public/templates/myaccount/related-subscriptions.php:13
+msgid "Subscription"
+msgstr "Подписка"
+
+#: admin/class-hf-subscription-related-meta-box.php:59
+msgid "Resubscribed Subscription"
+msgstr "Подписка на подписку"
+
+#: admin/class-hf-subscription-related-meta-box.php:67
+msgid "Initial Subscription"
+msgstr "Начальная подписка"
+
+#: admin/class-hf-subscription-related-meta-box.php:75 admin/class-hf-woocommerce-subscription-admin.php:1489
+msgid "Parent Order"
+msgstr "основной заказ"
+
+#: admin/class-hf-subscription-related-meta-box.php:84 admin/class-hf-woocommerce-subscription-admin.php:1485
+msgid "Renewal Order"
+msgstr "Заказ на обновление"
+
+#: admin/class-hf-subscription-related-meta-box.php:103 admin/class-hf-woocommerce-subscription-admin.php:1572
+#: public/templates/myaccount/related-subscriptions.php:25
+#, php-format
+msgid "#%s"
+msgstr "#%s"
+
+#: admin/class-hf-subscription-related-meta-box.php:113 admin/class-hf-woocommerce-subscription-admin.php:711
+msgid "Y/m/d g:i:s A"
+msgstr "Г/М/Д ч:м:с A"
+
+#: admin/class-hf-subscription-related-meta-box.php:116
+msgid "Unpublished"
+msgstr "Неопубликованный"
+
+#: admin/class-hf-subscription-related-meta-box.php:139
+msgid "Order Number "
+msgstr "Номер заказа"
+
+#: admin/class-hf-subscription-related-meta-box.php:140
+msgid "Relationship"
+msgstr "Отношение"
+
+#: admin/class-hf-subscription-related-meta-box.php:141
+msgid "Order Date"
+msgstr "Дата заказа"
+
+#: admin/class-hf-subscription-related-meta-box.php:142
+msgid "Order Status"
+msgstr "Статус заказа"
+
+#: admin/class-hf-subscription-related-meta-box.php:143
+msgid "Order Total"
+msgstr "Весь заказ"
+
+#: admin/class-hf-subscription-schedule-meta-box.php:23 admin/class-hf-subscription-schedule-meta-box.php:41
+msgid "Recurrence:"
+msgstr "Повторение:"
+
+#: admin/class-hf-subscription-schedule-meta-box.php:32
+msgid "Billing Period"
+msgstr "Расчетный период"
+
+#: admin/class-hf-woocommerce-subscription-admin.php:76
+msgid "Deleting this order will also delete the subscriptions purchased with the order."
+msgstr "Этот порядок будет также удаление подписки, приобретенные с заказом."
+
+#: admin/class-hf-woocommerce-subscription-admin.php:88
+msgid "Enter the new period, either day, week, month or year:"
+msgstr "Введите новый период, день, неделю, месяц или год:"
+
+#: admin/class-hf-woocommerce-subscription-admin.php:89
+msgid "Enter a new length (e.g. 5):"
+msgstr "Введите новую длительность подписки (например, 5):"
+
+#: admin/class-hf-woocommerce-subscription-admin.php:90
+msgid "Enter a new interval as a single number (e.g. to charge every 2nd month, enter 2):"
+msgstr "Введите новый интервал как одно число (например, для оплаты за каждый 2-й месяц, введите 2):"
+
+#: admin/class-hf-woocommerce-subscription-admin.php:94
+msgid ""
+"You are about to trash one or more orders which contain a subscription.\n"
+"\n"
+"Trashing the orders will also trash the subscriptions purchased with these orders."
+msgstr ""
+"Вы собираетесь удалить в корзину один или более заказов, которые содержат подписку.\\n\\nУдаление заказов приведет "
+"к удалению подписок, приобретенных с  заказами."
+
+#: admin/class-hf-woocommerce-subscription-admin.php:111
+msgid ""
+"Warning: Deleting a user will also delete the user's subscriptions. The user's orders will remain but be reassigned "
+"to the 'Guest' user.\n"
+"\n"
+"Do you want to continue to delete this user and any associated subscriptions?"
+msgstr ""
+"ПРЕДУПРЕЖДЕНИЕ: Удаление пользователя приведет к удалению подписки пользователя. Заказы пользователя останутся, но "
+"будут переназначены на пользователя 'Гость'. Вы хотите продолжить удаление этого пользователя и любых связанных с "
+"ним подписками?"
+
+#: admin/class-hf-woocommerce-subscription-admin.php:130
+msgid "Settings"
+msgstr "Настройки"
+
+#: admin/class-hf-woocommerce-subscription-admin.php:131
+msgid "Support"
+msgstr "Поддержка"
+
+#: admin/class-hf-woocommerce-subscription-admin.php:132
+msgid "Review"
+msgstr "Отзыв"
+
+#: admin/class-hf-woocommerce-subscription-admin.php:152 admin/class-hf-woocommerce-subscription-admin.php:394
+#: admin/class-hf-woocommerce-subscription-admin.php:407
+msgid "WebToffee Subscriptions"
+msgstr "WebToffee подписки"
+
+#: admin/class-hf-woocommerce-subscription-admin.php:167
+msgid "Manage Text"
+msgstr "Управление"
+
+#: admin/class-hf-woocommerce-subscription-admin.php:173
+msgid "My Account Tab Title"
+msgstr "Мой название вкладки счета"
+
+#: admin/class-hf-woocommerce-subscription-admin.php:174
+msgid "My Account Tab Title for subscription listing page."
+msgstr "Мой счет вкладка титул для подписки, листинг страницы."
+
+#: admin/class-hf-woocommerce-subscription-admin.php:177 admin/class-hf-woocommerce-subscription-admin.php:186
+#: includes/welcome/welcome.php:11 public/templates/myaccount/subscription-account-view.php:64
+#: public/templates/myaccount/subscription-account-view.php:79
+msgid "Subscriptions"
+msgstr "Подписки"
+
+#: admin/class-hf-woocommerce-subscription-admin.php:182
+msgid "My Account Tab Text"
+msgstr "Мой аккаунт пункт"
+
+#: admin/class-hf-woocommerce-subscription-admin.php:183
+msgid "My Account Tab Text for subscription listing page."
+msgstr "Мой текст вкладки счета для подписки, листинг страницы."
+
+#: admin/class-hf-woocommerce-subscription-admin.php:191
+msgid "Add to Cart Button Text"
+msgstr "Добавить в корзину Текст кнопки"
+
+#: admin/class-hf-woocommerce-subscription-admin.php:192
+msgid "Add to Cart Button Text on product page."
+msgstr "Добавьте в корзину кнопку текст на странице продукта."
+
+#: admin/class-hf-woocommerce-subscription-admin.php:195 admin/class-hf-woocommerce-subscription-admin.php:204
+#: includes/class-subscriptions-product.php:21 includes/class-subscriptions-product.php:26
+#: includes/components/class-hf-product-subscription.php:28 includes/components/class-hf-product-subscription.php:33
+msgid "Subscribe"
+msgstr "Подписаться"
+
+#: admin/class-hf-woocommerce-subscription-admin.php:200
+msgid "Place Order Button Text"
+msgstr "Разместить текст кнопки заказа"
+
+#: admin/class-hf-woocommerce-subscription-admin.php:201
+msgid "Place Order Button Text in checkout Page when an order contains a subscription."
+msgstr "Разместить кнопку заказа Текст на странице проверки, когда заказ содержит подписку."
+
+#: admin/class-hf-woocommerce-subscription-admin.php:211 includes/class-hf-plugin-uninstall-feedback.php:55
+msgid "Other"
+msgstr "Другие"
+
+#: admin/class-hf-woocommerce-subscription-admin.php:218
+msgid "Allow Mixed Checkout"
+msgstr "Разрешить смешанные Checkout"
+
+#: admin/class-hf-woocommerce-subscription-admin.php:219
+msgid "Allow subscription products and normal products to be purchased together."
+msgstr "Разрешить подписку продуктов и нормальной продукты будут покупаться вместе."
+
+#: admin/class-hf-woocommerce-subscription-admin.php:239
+msgid "Simple subscription"
+msgstr "Простая подписка"
+
+#: admin/class-hf-woocommerce-subscription-admin.php:257 admin/class-hf-woocommerce-subscription-admin.php:270
+#, php-format
+msgid "%sth"
+msgstr "%sth"
+
+#: admin/class-hf-woocommerce-subscription-admin.php:261
+#, php-format
+msgid "%sst"
+msgstr "%sst"
+
+#: admin/class-hf-woocommerce-subscription-admin.php:264
+#, php-format
+msgid "%snd"
+msgstr "%snd"
+
+#: admin/class-hf-woocommerce-subscription-admin.php:267
+#, php-format
+msgid "%srd"
+msgstr "%srd"
+
+#: admin/class-hf-woocommerce-subscription-admin.php:396
+msgid "Add Subscription"
+msgstr "Добавить подписку"
+
+#: admin/class-hf-woocommerce-subscription-admin.php:397
+msgid "Add New Subscription"
+msgstr "Добавить новую подписку"
+
+#: admin/class-hf-woocommerce-subscription-admin.php:398
+#: includes/components/action-scheduler/classes/ActionScheduler_wpPostStore_PostTypeRegistrar.php:38
+msgid "Edit"
+msgstr "Изменить"
+
+#: admin/class-hf-woocommerce-subscription-admin.php:399
+msgid "Edit Subscription"
+msgstr "Изменить подписку"
+
+#: admin/class-hf-woocommerce-subscription-admin.php:400
+msgid "New Subscription"
+msgstr "Новая подписка"
+
+#: admin/class-hf-woocommerce-subscription-admin.php:401 admin/class-hf-woocommerce-subscription-admin.php:402
+msgid "View Subscription"
+msgstr "Просмотреть подписку"
+
+#: admin/class-hf-woocommerce-subscription-admin.php:403
+msgid "Search Subscriptions"
+msgstr "Поиск Подписки"
+
+#: admin/class-hf-woocommerce-subscription-admin.php:404
+msgid "No Subscriptions found"
+msgstr "Подписка не найдена"
+
+#: admin/class-hf-woocommerce-subscription-admin.php:405
+msgid "No Subscriptions found in trash"
+msgstr "Подписки в Корзине не найдены"
+
+#: admin/class-hf-woocommerce-subscription-admin.php:406
+msgid "Parent Subscriptions"
+msgstr "Родительский подписки"
+
+#: admin/class-hf-woocommerce-subscription-admin.php:409
+msgid "This is where subscriptions are stored."
+msgstr "Это где хранятся подписки."
+
+#: admin/class-hf-woocommerce-subscription-admin.php:441
+#, php-format
+msgid "Active <span class=\"count\">(%s)</span>"
+msgstr "Активированы <span class=\"count\">(%s)</span>"
+
+#: admin/class-hf-woocommerce-subscription-admin.php:442
+#, php-format
+msgid "Expired <span class=\"count\">(%s)</span>"
+msgstr "Просроченные <span class=\"count\">(%s)</span>"
+
+#: admin/class-hf-woocommerce-subscription-admin.php:443
+#, php-format
+msgid "Pending Cancellation <span class=\"count\">(%s)</span>"
+msgstr "Ожидаемое аннулирование <span class=\"count\">(%s)</span>"
+
+#: admin/class-hf-woocommerce-subscription-admin.php:444
+#, php-format
+msgid "Pending <span class=\"count\">(%s)</span>"
+msgstr "В ожидании <span class=\"count\">(%s)</span>"
+
+#: admin/class-hf-woocommerce-subscription-admin.php:445
+#, php-format
+msgid "On hold <span class=\"count\">(%s)</span>"
+msgstr "В режиме ожидания <span class=\"count\">(%s)</span>"
+
+#: admin/class-hf-woocommerce-subscription-admin.php:446
+#, php-format
+msgid "Cancelled <span class=\"count\">(%s)</span>"
+msgstr "Отменен <span class=\"count\">(%s)</span>"
+
+#: admin/class-hf-woocommerce-subscription-admin.php:470 includes/class-hf-date-time-functions.php:41
+msgid "Never expire"
+msgstr "Бессрочное"
+
+#: admin/class-hf-woocommerce-subscription-admin.php:474 includes/class-hf-date-time-functions.php:45
+msgid "1 day"
+msgstr "1 день"
+
+#: admin/class-hf-woocommerce-subscription-admin.php:478 includes/class-hf-date-time-functions.php:49
+msgid "1 week"
+msgstr "1 неделя"
+
+#: admin/class-hf-woocommerce-subscription-admin.php:482 includes/class-hf-date-time-functions.php:53
+msgid "1 month"
+msgstr "1 месяц"
+
+#: admin/class-hf-woocommerce-subscription-admin.php:486 includes/class-hf-date-time-functions.php:57
+msgid "1 year"
+msgstr "1 год"
+
+#: admin/class-hf-woocommerce-subscription-admin.php:508
+#: includes/components/action-scheduler/classes/ActionScheduler_AdminView.php:120
+#: public/templates/myaccount/related-subscriptions.php:14 public/templates/myaccount/related-subscriptions.php:28
+#: public/templates/myaccount/subscriptions.php:25 public/templates/myaccount/subscriptions.php:39
+#: public/templates/myaccount/view-subscription.php:23
+msgid "Status"
+msgstr "Статус"
+
+#: admin/class-hf-woocommerce-subscription-admin.php:509
+msgid "Items"
+msgstr "Позиции"
+
+#: admin/class-hf-woocommerce-subscription-admin.php:510 public/templates/myaccount/related-subscriptions.php:16
+#: public/templates/myaccount/related-subscriptions.php:34 public/templates/myaccount/subscriptions.php:27
+#: public/templates/myaccount/subscriptions.php:52 public/templates/myaccount/view-subscription.php:92
+msgid "Total"
+msgstr "Всего"
+
+#: admin/class-hf-woocommerce-subscription-admin.php:511 includes/subscription-common-functions.php:581
+#: public/templates/myaccount/view-subscription.php:27
+msgid "Start Date"
+msgstr "Дата начала"
+
+#: admin/class-hf-woocommerce-subscription-admin.php:512 includes/subscription-common-functions.php:582
+#: public/templates/myaccount/related-subscriptions.php:15 public/templates/myaccount/related-subscriptions.php:31
+#: public/templates/myaccount/subscriptions.php:42
+msgid "Next Payment"
+msgstr "Следующая оплата"
+
+#: admin/class-hf-woocommerce-subscription-admin.php:513
+msgid "Orders"
+msgstr "Заказы"
+
+#: admin/class-hf-woocommerce-subscription-admin.php:550
+msgid "Billing:"
+msgstr "Биллинг:"
+
+#: admin/class-hf-woocommerce-subscription-admin.php:554
+#, php-format
+msgid "Email: %s"
+msgstr "Email: %s"
+
+#: admin/class-hf-woocommerce-subscription-admin.php:558
+#, php-format
+msgid "Tel: %s"
+msgstr "Тел:%s"
+
+#: admin/class-hf-woocommerce-subscription-admin.php:583
+#, php-format
+msgid "%1$s#%2$s%3$s for %4$s"
+msgstr "%1$s#%2$s%3$s за %4$s"
+
+#: admin/class-hf-woocommerce-subscription-admin.php:584
+msgid "Show more details"
+msgstr "Показать подробнее"
+
+#: admin/class-hf-woocommerce-subscription-admin.php:608 includes/subscription-common-functions.php:308
+msgid "Reactivate"
+msgstr "Повторно активировать"
+
+#: admin/class-hf-woocommerce-subscription-admin.php:609 includes/subscription-common-functions.php:303
+msgid "Suspend"
+msgstr "Остановить"
+
+#: admin/class-hf-woocommerce-subscription-admin.php:610 admin/class-hf-woocommerce-subscription-admin.php:625
+#: includes/class-hf-plugin-uninstall-feedback.php:89 includes/subscription-common-functions.php:324
+msgid "Cancel"
+msgstr "Отменить"
+
+#: admin/class-hf-woocommerce-subscription-admin.php:611 admin/class-hf-woocommerce-subscription-admin.php:640
+msgid "Trash"
+msgstr "Удалить"
+
+#: admin/class-hf-woocommerce-subscription-admin.php:612 admin/class-hf-woocommerce-subscription-admin.php:644
+msgid "Delete Permanently"
+msgstr "Удалить навсегда"
+
+#: admin/class-hf-woocommerce-subscription-admin.php:619
+msgid ""
+" ( Canceling here will not cancel from PayPal. Need to cancel by customer from PayPal dashboard under pre-approved "
+"payments ) "
+msgstr ""
+"(Отмена здесь не будет отменить от PayPal. Нужно отменить заказчиком от PayPal панели под заранее утвержденных "
+"выплат)"
+
+#: admin/class-hf-woocommerce-subscription-admin.php:638
+msgid "Restore this item from the Trash"
+msgstr "Восстановить этот элемент из корзины"
+
+#: admin/class-hf-woocommerce-subscription-admin.php:638
+msgid "Restore"
+msgstr "Восстановить"
+
+#: admin/class-hf-woocommerce-subscription-admin.php:640
+msgid "Move this item to the Trash"
+msgstr "Переместить этот элемент в корзину"
+
+#: admin/class-hf-woocommerce-subscription-admin.php:644
+msgid "Delete this item permanently"
+msgstr "Удалить навсегда этот элемент"
+
+#: admin/class-hf-woocommerce-subscription-admin.php:650
+msgid "Cancel Now"
+msgstr "Отменить сейчас"
+
+#: admin/class-hf-woocommerce-subscription-admin.php:698 public/templates/myaccount/subscriptions.php:46
+#, php-format
+msgid "Via %s"
+msgstr "С помощью %s"
+
+#: admin/class-hf-woocommerce-subscription-admin.php:737
+msgid "No Related Orders"
+msgstr "Нет связанных заказов"
+
+#: admin/class-hf-woocommerce-subscription-admin.php:754
+#, php-format
+msgid "Could not find subscription with ID #%d."
+msgstr "Не удалось найти подписку с идентификатором ID #%d."
+
+#: admin/class-hf-woocommerce-subscription-admin.php:884
+msgid "All subscription items have been removed from the cart."
+msgstr "Все подписки элементы были удалены из корзины."
+
+#: admin/class-hf-woocommerce-subscription-admin.php:993
+#, php-format
+msgid "Error %d: Unable to create subscription. Please try again."
+msgstr "Ошибка %d: Невозможно создать заявку. Пожалуйста, попробуйте еще раз."
+
+#: admin/class-hf-woocommerce-subscription-admin.php:1007
+#, php-format
+msgid "Error %d: Unable to add tax to subscription. Please try again."
+msgstr "Ошибка % d: Невозможно добавить налог на подписку. Пожалуйста, попробуйте еще раз."
+
+#: admin/class-hf-woocommerce-subscription-admin.php:1017
+#, php-format
+msgid "Error %d: Unable to create order. Please try again."
+msgstr "Ошибка %d: Невозможно создать заявку. Пожалуйста, попробуйте еще раз."
+
+#: admin/class-hf-woocommerce-subscription-admin.php:1229
+msgid "Process renewal"
+msgstr "Обновление процесса"
+
+#: admin/class-hf-woocommerce-subscription-admin.php:1232
+msgid "Create pending renewal order"
+msgstr "Создание отложенного заказа на обновление"
+
+#: admin/class-hf-woocommerce-subscription-admin.php:1235
+msgid "Retry Renewal Payment"
+msgstr "Повторить платеж на продление"
+
+#: admin/class-hf-woocommerce-subscription-admin.php:1243
+msgid "Process renewal requested by admin."
+msgstr "Процесс обновления просил администратора."
+
+#: admin/class-hf-woocommerce-subscription-admin.php:1256
+msgid "Create pending renewal order requested by admin action."
+msgstr "Создайте ожидающий запрос на обновление, запрошенный действием администратора."
+
+#: admin/class-hf-woocommerce-subscription-admin.php:1270
+msgid "Subscription renewal payment due:"
+msgstr "Плата за продление подписки:"
+
+#: admin/class-hf-woocommerce-subscription-admin.php:1277
+msgid "Error: Unable to create renewal order from scheduled payment. Please try again."
+msgstr "Ошибка: Не удается создать порядок обновления из запланированных платежей. Пожалуйста, попробуйте еще раз."
+
+#: admin/class-hf-woocommerce-subscription-admin.php:1415
+msgid "Subscription status changed by bulk edit:"
+msgstr "Статус подписки изменен массовым правлением:"
+
+#: admin/class-hf-woocommerce-subscription-admin.php:1487
+msgid "Resubscribe Order"
+msgstr "Заказ на переподписку"
+
+#: admin/class-hf-woocommerce-subscription-admin.php:1511 includes/class-hf-woocommerce-subscription.php:252
+#, php-format
+msgid "Subscription does not exist in scheduled action: %d"
+msgstr "Подписка не существует в запланированных действий: %d"
+
+#: admin/class-hf-woocommerce-subscription-admin.php:1573
+#, php-format
+msgid "Order %s created to record renewal."
+msgstr "Заказ%s создан для записи обновления."
+
+#: admin/class-hf-woocommerce-subscription-admin.php:1582
+msgid "Support Recurring Pay"
+msgstr "Поддержка Периодическая оплата"
+
+#: admin/class-hf-woocommerce-subscription-admin.php:1591
+msgid "Yes"
+msgstr "Да"
+
+#: admin/class-hf-woocommerce-subscription-admin.php:1593
+msgid "No"
+msgstr "Нет"
+
+#: admin/class-hf-woocommerce-subscription-admin.php:1608 admin/class-hf-woocommerce-subscription-admin.php:1611
+msgid "Subscribe Now"
+msgstr "Подписаться сейчас"
+
+#: admin/templates/subscription/product-price-fields.php:16
+msgid "Choose the subscription price, interval and period."
+msgstr "Выберите стоимость подписки, интервал и период."
+
+#: admin/templates/subscription/product-price-fields.php:21
+#, php-format
+msgid "Subscription price (%s)"
+msgstr "Стоимость подписки (%s)"
+
+#: admin/templates/subscription/product-price-fields.php:24
+msgid "Subscription interval"
+msgstr "Интервал подписки"
+
+#: admin/templates/subscription/product-price-fields.php:30
+msgid "Subscription period"
+msgstr "Срок подписки"
+
+#: admin/templates/subscription/product-price-fields.php:44
+msgid "Subscription length"
+msgstr "Длительность подписки"
+
+#: admin/templates/subscription/product-price-fields.php:47
+msgid "Automatically expire the subscription after this length of time."
+msgstr "Автоматически истечет после этого срока подписки."
+
+#: includes/class-hf-date-time-functions.php:14 includes/class-hf-date-time-functions.php:153
+msgid "day"
+msgstr "день"
+
+#: includes/class-hf-date-time-functions.php:15 includes/class-hf-date-time-functions.php:154
+msgid "week"
+msgstr "неделя"
+
+#: includes/class-hf-date-time-functions.php:16 includes/class-hf-date-time-functions.php:155
+msgid "month"
+msgstr "месяц"
+
+#: includes/class-hf-date-time-functions.php:17 includes/class-hf-date-time-functions.php:156
+msgid "year"
+msgstr "год"
+
+#: includes/class-hf-date-time-functions.php:19
+msgid "days"
+msgstr "дней"
+
+#: includes/class-hf-date-time-functions.php:20
+msgid "weeks"
+msgstr "недель"
+
+#: includes/class-hf-date-time-functions.php:21
+msgid "months"
+msgstr "месяцы"
+
+#: includes/class-hf-date-time-functions.php:22
+msgid "years"
+msgstr "лет"
+
+#: includes/class-hf-date-time-functions.php:132 includes/class-subscriptions-product.php:113
+#: includes/subscription-price-functions.php:41
+msgid "every"
+msgstr "каждый"
+
+#: includes/class-hf-date-time-functions.php:136
+#, php-format
+msgid "every %s"
+msgstr "каждый(е) %s"
+
+#: includes/class-hf-date-time-functions.php:288 includes/components/class-subscription.php:786
+#, php-format
+msgid "In %s"
+msgstr "от %s"
+
+#: includes/class-hf-date-time-functions.php:290 includes/components/class-subscription.php:788
+#, php-format
+msgid "%s ago"
+msgstr "%s назад"
+
+#: includes/class-hf-plugin-uninstall-feedback.php:19
+msgid "I couldn't understand how to make it work"
+msgstr "Я не могу понять, как заставить его работать"
+
+#: includes/class-hf-plugin-uninstall-feedback.php:21
+msgid "Would you like us to assist you?"
+msgstr "Хотели бы вы нам помочь вам?"
+
+#: includes/class-hf-plugin-uninstall-feedback.php:25
+msgid "I found a better plugin"
+msgstr "Я нашел лучший плагин"
+
+#: includes/class-hf-plugin-uninstall-feedback.php:27
+msgid "Which plugin?"
+msgstr "Какой плагин"
+
+#: includes/class-hf-plugin-uninstall-feedback.php:31
+msgid "The plugin is great, but I need specific feature that you don't support"
+msgstr "Плагин хорош, но мне нужна специфическая особенность, которую вы не поддерживаете"
+
+#: includes/class-hf-plugin-uninstall-feedback.php:33
+msgid "Could you tell us more about that feature?"
+msgstr "Могли бы вы рассказать нам больше о этой функции?"
+
+#: includes/class-hf-plugin-uninstall-feedback.php:37
+msgid "The plugin is not working"
+msgstr "Плагин не работает"
+
+#: includes/class-hf-plugin-uninstall-feedback.php:39
+msgid "Could you tell us a bit more whats not working?"
+msgstr "Могли бы вы рассказать нам немного больше whats не работает?"
+
+#: includes/class-hf-plugin-uninstall-feedback.php:43
+msgid "It's not what I was looking for"
+msgstr "Это не то, что я искал"
+
+#: includes/class-hf-plugin-uninstall-feedback.php:49
+msgid "The plugin didn't work as expected"
+msgstr "Плагин не работал должным образом"
+
+#: includes/class-hf-plugin-uninstall-feedback.php:51
+msgid "What did you expect?"
+msgstr "Чего ты ожидал?"
+
+#: includes/class-hf-plugin-uninstall-feedback.php:57
+msgid "Could you tell us a bit more?"
+msgstr "Не могли бы вы рассказать нам немного больше?"
+
+#: includes/class-hf-plugin-uninstall-feedback.php:75
+msgid "If you have a moment, please let us know why you are deactivating:"
+msgstr "Если есть минутка, пожалуйста, сообщите нам, почему вы деактивируете свой аккаунт:"
+
+#: includes/class-hf-plugin-uninstall-feedback.php:87
+msgid "I rather wouldn't say"
+msgstr "Предпочитаю не говорить"
+
+#: includes/class-hf-plugin-uninstall-feedback.php:88
+msgid "Submit & Deactivate"
+msgstr "Подтвердить и деактивировать"
+
+#: includes/class-hf-woocommerce-subscription-activator.php:27
+msgid "HF Subscription Plugin not activated. WooCommerce is required."
+msgstr "ВЧ подписки плагин не активирован. WooCommerce не требуется."
+
+#: includes/class-hf-woocommerce-subscription.php:275
+#, php-format
+msgid ""
+"<li class=\"hf-premium-link\"><a  target=\"_blank\" href=\"%s\" class=\"hf-nav-tab-premium\">Upgrade to premium</"
+"a></li>"
+msgstr ""
+"<li class=\"hf-premium-link\"><a target=\"_blank\" href=\"%s\" class=\"hf-nav-tab-premium\">Переидите на премиум</"
+"a></li>"
+
+#: includes/class-hf-woocommerce-subscription.php:277
+msgid "<li>Supports Simple and <b>Variable subscriptions</b>.</li>"
+msgstr "<li>Поддерживает простой и <b>переменные подписки</b>.</li>"
+
+#: includes/class-hf-woocommerce-subscription.php:278
+msgid "<li>Purchase Subscription and normal products in the same order.</li>"
+msgstr "<li>Покупка подписки и обычных продуктов в том же порядке.</li>"
+
+#: includes/class-hf-woocommerce-subscription.php:279
+msgid "<li>Frequent releases with new features and compatibility updates.</li>"
+msgstr "<li>Частые релизы с новыми возможностями и обновления совместимости.</li>"
+
+#: includes/class-hf-woocommerce-subscription.php:280
+msgid "<li>Subscription <b>Trial period</b> and <b>Signup-Fee</b> options.</li>"
+msgstr "<li>Параметры подписки <b>пробного периода</b> и <b>Signup-плата</b> .</li>"
+
+#: includes/class-hf-woocommerce-subscription.php:291
+msgid "Subscription Details"
+msgstr "Детали о подписке"
+
+#: includes/class-hf-woocommerce-subscription.php:292
+msgid "Billing Schedule Details"
+msgstr "Подробности расписания биллинга"
+
+#: includes/class-hf-woocommerce-subscription.php:295 includes/class-hf-woocommerce-subscription.php:298
+msgid "Related Orders"
+msgstr "Связанные заказы"
+
+#: includes/class-subscriptions-cart.php:60
+msgid ""
+"A subscription renewal has been removed from your cart. Multiple subscriptions can not be purchased at the same "
+"time."
+msgstr "Продление подписки были удалены из корзины. Несколько подписок не могут быть приобретены в то же время."
+
+#: includes/class-subscriptions-cart.php:63
+msgid ""
+"A subscription has been removed from your cart. Due to payment gateway restrictions, different subscription "
+"products can not be purchased at the same time."
+msgstr ""
+"Подписки были удалены из корзины. Из-за ограничений шлюза оплаты, вы не можете приобрести товары и подписки в одно "
+"и то же время."
+
+#: includes/class-subscriptions-cart.php:66
+msgid ""
+"A subscription has been removed from your cart. Products and subscriptions can not be purchased at the same time."
+msgstr "Подписка удалена из вашей корзины. Продукты и подписки не могут быть приобретены в то же время."
+
+#: includes/class-subscriptions-cart.php:353
+msgid "Please enter a valid postcode/ZIP."
+msgstr "Введите действительный почтовый индекс."
+
+#: includes/class-subscriptions-cart.php:475
+msgid "That subscription product can not be added to your cart as it already contains a subscription renewal."
+msgstr "Что продукт подписки не может быть добавлен в вашу корзину, как он уже содержит обновление подписки."
+
+#: includes/class-subscriptions-cart.php:513
+msgid "Invalid recurring shipping method."
+msgstr "Неправильный способ повторяющейся доставки."
+
+#: includes/class-subscriptions-product.php:128
+#, php-format
+msgid " %s"
+msgstr ""
+
+#: includes/class-subscriptions-product.php:132 includes/subscription-price-functions.php:62
+#, php-format
+msgid "%1$s for %2$s"
+msgstr "%1$s за %2$s"
+
+#: includes/components/action-scheduler/classes/ActionScheduler_AdminView.php:81
+msgid "Published"
+msgstr "Опубликован"
+
+#: includes/components/action-scheduler/classes/ActionScheduler_AdminView.php:81
+#: includes/components/action-scheduler/classes/ActionScheduler_AdminView.php:181
+msgid "Complete"
+msgstr "Завершить"
+
+#: includes/components/action-scheduler/classes/ActionScheduler_AdminView.php:119
+msgid "Hook"
+msgstr "Хук"
+
+#: includes/components/action-scheduler/classes/ActionScheduler_AdminView.php:121
+msgid "Arguments"
+msgstr "Аргументы"
+
+#: includes/components/action-scheduler/classes/ActionScheduler_AdminView.php:122
+msgid "Group"
+msgstr "Группа"
+
+#: includes/components/action-scheduler/classes/ActionScheduler_AdminView.php:124
+msgid "Scheduled Date"
+msgstr "Плановая дата"
+
+#: includes/components/action-scheduler/classes/ActionScheduler_AdminView.php:129
+msgid "Started"
+msgstr "Запущено"
+
+#: includes/components/action-scheduler/classes/ActionScheduler_AdminView.php:131
+msgid "Completed"
+msgstr "Завершено"
+
+#: includes/components/action-scheduler/classes/ActionScheduler_AdminView.php:135
+msgid "Claim ID"
+msgstr "ID"
+
+#: includes/components/action-scheduler/classes/ActionScheduler_AdminView.php:136
+msgid "Log"
+msgstr "Журнал"
+
+#: includes/components/action-scheduler/classes/ActionScheduler_AdminView.php:206
+#: includes/components/action-scheduler/classes/ActionScheduler_AdminView.php:215
+#, php-format
+msgid " (%s ago)"
+msgstr " (%s назад)"
+
+#: includes/components/action-scheduler/classes/ActionScheduler_AdminView.php:247
+msgid "Process the action now as if it were run as part of a queue"
+msgstr "Обработать действие сейчас, как если бы оно выполнялось как часть очереди"
+
+#: includes/components/action-scheduler/classes/ActionScheduler_AdminView.php:247
+msgid "Run"
+msgstr "Запустить"
+
+#: includes/components/action-scheduler/classes/ActionScheduler_AdminView.php:325
+#, php-format
+msgid ""
+"Maximum simulatenous batches already in progress (%s queues). No actions will be processed until the current "
+"batches are complete."
+msgstr ""
+"Максимальная simulatenous пакеты уже в прогресс (%s очереди). Действия не будут обрабатываться до завершения "
+"текущих пакетов."
+
+#: includes/components/action-scheduler/classes/ActionScheduler_AdminView.php:334
+#, php-format
+msgid "Successfully executed the action: %s"
+msgstr "Успешно выполнено:%s"
+
+#: includes/components/action-scheduler/classes/ActionScheduler_AdminView.php:338
+#, php-format
+msgid "Could not execute the action: %s"
+msgstr "Не удаётся выполнить: %s"
+
+#: includes/components/action-scheduler/classes/ActionScheduler_AdminView.php:370
+msgid "Now!"
+msgstr "Сейчас!"
+
+#: includes/components/action-scheduler/classes/ActionScheduler_AdminView.php:457
+#: includes/components/action-scheduler/classes/ActionScheduler_AdminView.php:460
+msgid "Action updated."
+msgstr "Действие обновлено"
+
+#: includes/components/action-scheduler/classes/ActionScheduler_AdminView.php:458
+msgid "Custom field updated."
+msgstr "Произвольное поле обновлено."
+
+#: includes/components/action-scheduler/classes/ActionScheduler_AdminView.php:459
+msgid "Custom field deleted."
+msgstr "Произвольное поле удалено."
+
+#: includes/components/action-scheduler/classes/ActionScheduler_AdminView.php:461
+#, php-format
+msgid "Action restored to revision from %s"
+msgstr "Восстановлено до версии от %s"
+
+#: includes/components/action-scheduler/classes/ActionScheduler_AdminView.php:462
+msgid "Action scheduled."
+msgstr "Действия запланированных."
+
+#: includes/components/action-scheduler/classes/ActionScheduler_AdminView.php:463
+msgid "Action saved."
+msgstr "Действие сохраняется."
+
+#: includes/components/action-scheduler/classes/ActionScheduler_AdminView.php:464
+msgid "Action submitted."
+msgstr "Действий, представленный."
+
+#: includes/components/action-scheduler/classes/ActionScheduler_AdminView.php:465
+#, php-format
+msgid "Action scheduled for: <strong>%1$s</strong>"
+msgstr "Действий, запланированных для: <strong>%1$s</strong>"
+
+#: includes/components/action-scheduler/classes/ActionScheduler_AdminView.php:465
+msgid "M j, Y @ G:i"
+msgstr "M j, Y @ G:i"
+
+#: includes/components/action-scheduler/classes/ActionScheduler_AdminView.php:466
+msgid "Action draft updated."
+msgstr "Черновик обновлен."
+
+#: includes/components/action-scheduler/classes/ActionScheduler_QueueRunner.php:138
+msgid "Every minute"
+msgstr "Каждую минуту"
+
+#: includes/components/action-scheduler/classes/ActionScheduler_wpCommentLogger.php:248
+msgid "action created"
+msgstr "действий"
+
+#: includes/components/action-scheduler/classes/ActionScheduler_wpCommentLogger.php:252
+msgid "action canceled"
+msgstr "действие прервано"
+
+#: includes/components/action-scheduler/classes/ActionScheduler_wpCommentLogger.php:256
+msgid "action started"
+msgstr "началась акция"
+
+#: includes/components/action-scheduler/classes/ActionScheduler_wpCommentLogger.php:260
+msgid "action complete"
+msgstr "действие закончено"
+
+#: includes/components/action-scheduler/classes/ActionScheduler_wpCommentLogger.php:264
+#, php-format
+msgid "action failed: %s"
+msgstr "действие не выполнено:%s"
+
+#: includes/components/action-scheduler/classes/ActionScheduler_wpCommentLogger.php:268
+#, php-format
+msgid "action timed out after %s seconds"
+msgstr "действий, истекло после %s секунд"
+
+#: includes/components/action-scheduler/classes/ActionScheduler_wpCommentLogger.php:273
+#, php-format
+msgid "unexpected shutdown: PHP Fatal error %s in %s on line %s"
+msgstr "неожиданное завершение: PHP Фатальная ошибка %s в %s на линии %s"
+
+#: includes/components/action-scheduler/classes/ActionScheduler_wpCommentLogger.php:278
+msgid "action reset"
+msgstr "действие сброса"
+
+#: includes/components/action-scheduler/classes/ActionScheduler_wpPostStore.php:25
+#, php-format
+msgid "Error saving action: %s"
+msgstr "Ошибка при сохранении:%s"
+
+#: includes/components/action-scheduler/classes/ActionScheduler_wpPostStore.php:44
+#: includes/components/action-scheduler/classes/ActionScheduler_wpPostStore.php:53
+msgid "Invalid schedule. Cannot save action."
+msgstr "Недопустимое расписание. Не удается сохранить действий."
+
+#: includes/components/action-scheduler/classes/ActionScheduler_wpPostStore.php:69
+msgid "Unable to save action."
+msgstr "Не удалось сохранить действие."
+
+#: includes/components/action-scheduler/classes/ActionScheduler_wpPostStore.php:319
+#: includes/components/action-scheduler/classes/ActionScheduler_wpPostStore.php:328
+#: includes/components/action-scheduler/classes/ActionScheduler_wpPostStore.php:354
+#: includes/components/action-scheduler/classes/ActionScheduler_wpPostStore.php:489
+#, php-format
+msgid "Unidentified action %s"
+msgstr "Неопознанное действие%s"
+
+#: includes/components/action-scheduler/classes/ActionScheduler_wpPostStore.php:410
+msgid "Unable to claim actions. Database error."
+msgstr "Не в состоянии требовать действий. Ошибка базы данных."
+
+#: includes/components/action-scheduler/classes/ActionScheduler_wpPostStore.php:440
+#, php-format
+msgid "Unable to unlock claim %s. Database error."
+msgstr "Не удалось разблокировать претензии %s. ошибка базы данных."
+
+#: includes/components/action-scheduler/classes/ActionScheduler_wpPostStore.php:456
+#, php-format
+msgid "Unable to unlock claim on action %s. Database error."
+msgstr "Не удалось разблокировать претензии на действия %s. ошибка базы данных."
+
+#: includes/components/action-scheduler/classes/ActionScheduler_wpPostStore.php:467
+#, php-format
+msgid "Unable to mark failure on action %s. Database error."
+msgstr "Не удается пометить аварии на действия %s. ошибка базы данных."
+
+#: includes/components/action-scheduler/classes/ActionScheduler_wpPostStore_PostTypeRegistrar.php:22
+#: includes/components/action-scheduler/classes/ActionScheduler_wpPostStore_PostTypeRegistrar.php:33
+msgid "Scheduled Actions"
+msgstr "Запланированные действия"
+
+#: includes/components/action-scheduler/classes/ActionScheduler_wpPostStore_PostTypeRegistrar.php:23
+msgid "Scheduled actions are hooks triggered on a cetain date and time."
+msgstr "Запланированные действия являются обработчиками, срабатывает на некоторые даты и времени."
+
+#: includes/components/action-scheduler/classes/ActionScheduler_wpPostStore_PostTypeRegistrar.php:34
+msgid "Scheduled Action"
+msgstr "Запланированные меры"
+
+#: includes/components/action-scheduler/classes/ActionScheduler_wpPostStore_PostTypeRegistrar.php:36
+msgid "Add"
+msgstr "Добавить"
+
+#: includes/components/action-scheduler/classes/ActionScheduler_wpPostStore_PostTypeRegistrar.php:37
+msgid "Add New Scheduled Action"
+msgstr "Добавление новых запланированных действий"
+
+#: includes/components/action-scheduler/classes/ActionScheduler_wpPostStore_PostTypeRegistrar.php:39
+msgid "Edit Scheduled Action"
+msgstr "Изменить запланированное действие"
+
+#: includes/components/action-scheduler/classes/ActionScheduler_wpPostStore_PostTypeRegistrar.php:40
+msgid "New Scheduled Action"
+msgstr "Новое запланированное действие"
+
+#: includes/components/action-scheduler/classes/ActionScheduler_wpPostStore_PostTypeRegistrar.php:41
+#: includes/components/action-scheduler/classes/ActionScheduler_wpPostStore_PostTypeRegistrar.php:42
+msgid "View Action"
+msgstr "Просмотреть"
+
+#: includes/components/action-scheduler/classes/ActionScheduler_wpPostStore_PostTypeRegistrar.php:43
+msgid "Search Scheduled Actions"
+msgstr "Поиск запланированные действия"
+
+#: includes/components/action-scheduler/classes/ActionScheduler_wpPostStore_PostTypeRegistrar.php:44
+msgid "No actions found"
+msgstr "Не найдено ни одного действия"
+
+#: includes/components/action-scheduler/classes/ActionScheduler_wpPostStore_PostTypeRegistrar.php:45
+msgid "No actions found in trash"
+msgstr "Не найдено в корзине"
+
+#: includes/components/action-scheduler/classes/ActionScheduler_wpPostStore_TaxonomyRegistrar.php:16
+msgid "Action Group"
+msgstr "Ð­ÑÐ¾ ÑÐ»Ð¾Ð²Ð¾ ÑÐ»Ð¸ÑÐºÐ¾Ð¼ Ð¿Ð¾ÑÐ¾Ð¶Ðµ Ð½Ð° ÑÐ¶Ðµ Ð´Ð¾Ð±Ð°Ð²Ð»ÐµÐ½Ð½Ð¾Ðµ &apos;% 1&apos;, Ð·Ð°Ð¿Ð¸ÑÐ¸ÑÐµ Ð´ÑÑÐ³Ð¾Ðµ ÑÐ»Ð¾Ð²Ð¾."
+
+#: includes/components/class-subscription.php:174
+msgid "Payment received."
+msgstr "Платеж получен."
+
+#: includes/components/class-subscription.php:363
+#, php-format
+msgid "Unable to change subscription status to \"%s\"."
+msgstr "Не удается изменить состояние подписки на «%s»."
+
+#: includes/components/class-subscription.php:438
+#, php-format
+msgid "Unable to change subscription status to \"%s\". Exception: %s"
+msgstr "Не удается изменить состояние подписки на «%s». Исключение: %s"
+
+#: includes/components/class-subscription.php:505
+#, php-format
+msgid "Status changed from %1$s to %2$s."
+msgstr "Статус заказа изменен с %1$s до %2$s."
+
+#: includes/components/class-subscription.php:512
+#, php-format
+msgid "Status set to %s."
+msgstr "Состояние установлено в %s."
+
+#: includes/components/class-subscription.php:795
+msgid "Not yet ended"
+msgstr "Еще не закончено"
+
+#: includes/components/class-subscription.php:798
+msgid "Not cancelled"
+msgstr "Не отменено"
+
+#: includes/components/class-subscription.php:802
+msgid "-"
+msgstr "-"
+
+#: includes/components/class-subscription.php:888
+msgid "The start date of a subscription can not be deleted, only updated."
+msgstr "Дата начала подписки, не могут быть удалены, только обновление."
+
+#: includes/components/class-subscription.php:892
+#, php-format
+msgid "The %s date of a subscription can not be deleted. You must delete the order."
+msgstr "Последняя  %s дата платежа подписки не может быть удалена. Вы должны удалить заказ."
+
+#: includes/components/class-subscription.php:1150
+msgid "Payment failed."
+msgstr "Платёж не прошел."
+
+#: includes/components/class-subscription.php:1154
+msgid "Subscription Cancelled: maximum number of failed payments reached."
+msgstr "Cancelled подписки: достигнуто максимальное количество неудачных платежей."
+
+#: includes/components/class-subscription.php:1286
+msgid "Manual Renewal"
+msgstr "Ручное продление"
+
+#: includes/components/class-subscription.php:1336
+msgid "Payment method meta must be an array."
+msgstr "Meta метод оплаты должен быть массивом."
+
+#: includes/components/class-subscription.php:1375 includes/subscription-renewal-functions.php:177
+msgid "Backordered"
+msgstr "Предзаказ"
+
+#: includes/components/class-subscription.php:1437
+msgid "Invalid format. First parameter needs to be an array."
+msgstr "Недопустимый формат. Первый параметр должен быть массивом."
+
+#: includes/components/class-subscription.php:1441
+msgid "Invalid data. First parameter was empty when passed to update_dates()."
+msgstr "Недопустимые данные. Первый параметр был пуст, когда передается update_dates()."
+
+#: includes/components/class-subscription.php:1448
+msgid "Invalid data. First parameter has a date that is not in the registered date types."
+msgstr "Неверные данные. Первый параметр имеет дату, которая не относится к зарегистрированным типам дат."
+
+#: includes/components/class-subscription.php:1467
+#, php-format
+msgid "Invalid %s date. The date must be of the format: \"Y-m-d H:i:s\"."
+msgstr "Недопустимая дата%s. Дата должна иметь формат: «Ymd H: i: s»."
+
+#: includes/components/class-subscription.php:1498
+#, php-format
+msgid "The %s date must occur after the cancellation date."
+msgstr "%s Дата должна быть после даты отмены."
+
+#: includes/components/class-subscription.php:1503
+#, php-format
+msgid "The %s date must occur after the last payment date."
+msgstr "%s Дата должна быть после последней даты оплаты."
+
+#: includes/components/class-subscription.php:1506
+#, php-format
+msgid "The %s date must occur after the next payment date."
+msgstr "%s Дата должна быть после Дата следующего платежа."
+
+#: includes/hf-includes/class-hf-paypal-reference-ipn-handler.php:80
+msgid "Billing agreement cancelled at PayPal."
+msgstr "Биллинговое соглашение отменено в PayPal."
+
+#: includes/hf-includes/class-hf-paypal-standard-ipn-handler.php:200
+msgid "IPN subscription sign up completed."
+msgstr "IPN Регистрация подписки завершена."
+
+#: includes/hf-includes/class-hf-paypal-standard-ipn-handler.php:232
+#: includes/hf-includes/class-hf-paypal-standard-ipn-handler.php:297
+msgid "IPN subscription payment completed."
+msgstr "Оплата подписки IPN завершена."
+
+#: includes/hf-includes/class-hf-paypal-standard-ipn-handler.php:261
+msgid "IPN subscription failing payment method changed."
+msgstr "Изменен способ отказа от подписки на IPN."
+
+#: includes/hf-includes/class-hf-paypal-standard-ipn-handler.php:340
+msgid "IPN subscription suspended."
+msgstr "Подписка приостановлена."
+
+#: includes/hf-includes/class-hf-paypal-standard-ipn-handler.php:359
+msgid "IPN subscription cancelled."
+msgstr "Подписка отменена."
+
+#: includes/hf-includes/class-hf-paypal-standard-ipn-handler.php:374
+msgid "IPN subscription payment failure."
+msgstr "IPN оплата подписки не удалась."
+
+#: includes/hf-includes/class-hf-paypal-standard-ipn-handler.php:487
+msgid "Invalid PayPal IPN Payload: unable to find matching subscription."
+msgstr "Недействительная PayPal PayPal. Полезная нагрузка IPN: невозможно найти соответствующую подписку."
+
+#: includes/subscription-cart-functions.php:54 includes/subscription-cart-functions.php:55
+#, php-format
+msgid "Shipping via %s"
+msgstr "Доставка через %s"
+
+#: includes/subscription-cart-functions.php:139
+msgid "Free"
+msgstr "Свободный"
+
+#: includes/subscription-cart-functions.php:163
+msgid "Free shipping coupon"
+msgstr "Промокод на бесплатную доставку"
+
+#: includes/subscription-cart-functions.php:187
+#, php-format
+msgid "(Includes %s)"
+msgstr "(включая %s)"
+
+#: includes/subscription-cart-functions.php:230
+#, php-format
+msgid "First renewal date: %s"
+msgstr "Следующее обновление: %s"
+
+#: includes/subscription-common-functions.php:296
+msgid "  ( Please cancel the subscription from PayPal dashboard under pre-approved payments ) "
+msgstr "(Пожалуйста, отмените подписку с панели инструментов PayPal в рамках предварительно одобренных платежей)"
+
+#: includes/subscription-common-functions.php:361
+msgid "Invalid date. The date must be a string and of the format: \"Y-m-d H:i:s\"."
+msgstr "Недействительная дата. Дата должна быть строкой и формата: \"Г-м-д Ч:М:С\"."
+
+#: includes/subscription-common-functions.php:363
+msgid "Subscription start date must be before current day."
+msgstr "Дата начала подписки должна быть раньше текущей даты."
+
+#: includes/subscription-common-functions.php:367
+msgid "Invalid subscription customer_id."
+msgstr "Customer_id неверный подписки."
+
+#: includes/subscription-common-functions.php:371
+msgid "Invalid subscription billing period given."
+msgstr "Период с учетом неверный подписки биллинг."
+
+#: includes/subscription-common-functions.php:375
+msgid "Invalid subscription billing interval given. Must be an integer greater than 0."
+msgstr "Недопустимый подписки оплаты интервал дано. Должно быть целое число больше 0."
+
+#: includes/subscription-common-functions.php:383
+msgid "%b %d, %Y @ %I:%M %p"
+msgstr "%b %d, %Y @ %I:%M %p"
+
+#: includes/subscription-common-functions.php:384
+#, php-format
+msgid "Subscription &ndash; %s"
+msgstr "Подписка &ndash; %s"
+
+#: includes/subscription-common-functions.php:398
+msgid "Invalid subscription status given."
+msgstr "Учитывая статус неверный подписки."
+
+#: includes/subscription-common-functions.php:429
+msgid "Invalid data. Orders expected aren't orders."
+msgstr "Неверные данные. Указанные заказы не являются заказами."
+
+#: includes/subscription-common-functions.php:433
+msgid "Invalid data. Type of copy is not a string."
+msgstr "Недопустимые данные. Тип копии не является строкой."
+
+#: includes/subscription-common-functions.php:482
+msgid "Pending"
+msgstr "В ожидании"
+
+#: includes/subscription-common-functions.php:483
+msgid "Active"
+msgstr "Активно"
+
+#: includes/subscription-common-functions.php:484
+msgid "On hold"
+msgstr "На паузе"
+
+#: includes/subscription-common-functions.php:485
+msgid "Cancelled"
+msgstr "Отменен"
+
+#: includes/subscription-common-functions.php:486
+msgid "Expired"
+msgstr "Истекший"
+
+#: includes/subscription-common-functions.php:487
+msgid "Pending Cancellation"
+msgstr "В ожидании отмены"
+
+#: includes/subscription-common-functions.php:496
+msgid "Can not get status name. Status is not a string."
+msgstr "Не удается получить статус. Статус не является строкой."
+
+#: includes/subscription-common-functions.php:566
+msgid "Can not get address type display name. Address type is not a string."
+msgstr "Не могу получить адрес типа отображаемое имя. Тип адреса не является строкой."
+
+#: includes/subscription-common-functions.php:570
+msgid "Shipping Address"
+msgstr "Адрес доставки"
+
+#: includes/subscription-common-functions.php:571
+msgid "Billing Address"
+msgstr "Адрес оплаты"
+
+#: includes/subscription-common-functions.php:583 public/templates/myaccount/view-subscription.php:31
+msgid "Last Order Date"
+msgstr "Дата последнего заказа"
+
+#: includes/subscription-common-functions.php:584
+msgid "Cancelled Date"
+msgstr "Дата отмены"
+
+#: includes/subscription-common-functions.php:585 public/templates/myaccount/view-subscription.php:33
+msgid "End Date"
+msgstr "Дата окончания"
+
+#: includes/subscription-common-functions.php:605
+msgid "Date type is not a string."
+msgstr "Тип даты не является строкой."
+
+#: includes/subscription-common-functions.php:607
+msgid "Date type can not be an empty string."
+msgstr "Тип даты не может быть пустой строкой."
+
+#: includes/subscription-price-functions.php:13
+msgid "up front"
+msgstr "заранее"
+
+#: includes/subscription-price-functions.php:48
+#, php-format
+msgid "%1$s %2$s then %3$s"
+msgstr "%1$s %2$s, то %3$s"
+
+#: includes/subscription-renewal-functions.php:94
+#, php-format
+msgid "\"%s\" passed to the function was not a string."
+msgstr "«%s» передан функции не был string."
+
+#: includes/subscription-renewal-functions.php:98
+#, php-format
+msgid "\"%s\" is not a valid new order type."
+msgstr "«%s» не является допустимым типом нового порядка."
+
+#: includes/welcome/welcome.php:6
+msgid "Welcome to Subscription for WooCommerce"
+msgstr "Добро пожаловать в подписку на WooCommerce"
+
+#: includes/welcome/welcome.php:8
+msgid "Supports simple subscription products."
+msgstr "Поддерживает простые продукты подписки."
+
+#: public/class-hf-woocommerce-subscription-public.php:192
+msgid "That subscription does not exist. Please contact us if you need assistance."
+msgstr "Что подписка не существует. Если вам нужна помощь, пожалуйста, свяжитесь с нами."
+
+#: public/class-hf-woocommerce-subscription-public.php:196
+msgid "Security error. Please contact us if you need assistance."
+msgstr "Ошибка безопасности. Если вам нужна помощь, пожалуйста, свяжитесь с нами."
+
+#: public/class-hf-woocommerce-subscription-public.php:200
+msgid "That doesn't appear to be one of your subscriptions."
+msgstr "Это, кажется, не ваша подписка."
+
+#: public/class-hf-woocommerce-subscription-public.php:204
+#, php-format
+msgid "That subscription can not be changed to %s. Please contact us if you need assistance."
+msgstr "Эта подписка не может быть изменена на %s. Если вам нужна помощь, пожалуйста, свяжитесь с нами."
+
+#: public/class-hf-woocommerce-subscription-public.php:222
+msgid "You can not reactivate that subscription until paying to renew it. Please contact us if you need assistance."
+msgstr "Вы можете вознобновить подписку  только после ее оплаты. Если вам нужна помощь, пожалуйста, свяжитесь с нами."
+
+#: public/class-hf-woocommerce-subscription-public.php:232
+msgid ""
+"You can not suspend that subscription - the suspension limit has been reached. Please contact us if you need "
+"assistance."
+msgstr ""
+"Вы не можете приостановить эту подписку - был достигнут лимит. Если вам нужна помощь, пожалуйста, свяжитесь с нами."
+
+#: public/templates/cart/cart-recurring-shipping.php:15
+msgid "Recurring shipping options can be selected on checkout."
+msgstr "Повторяющиеся доставка параметры могут быть выбраны на checkout."
+
+#: public/templates/cart/cart-recurring-shipping.php:29
+msgid "Shipping costs will be calculated once you have provided your address."
+msgstr "Стоимость доставки будет рассчитываться после того, как вы укажете свой адрес."
+
+#: public/templates/cart/cart-recurring-shipping.php:31
+msgid "There are no shipping methods available. Please double check your address, or contact us if you need any help."
+msgstr ""
+"Нет доступных способов доставки. Пожалуйста, дважды проверьте свой адрес или свяжитесь с нами, если вам нужна "
+"помощь."
+
+#: public/templates/checkout/recurring-totals.php:11
+msgid "Recurring Totals"
+msgstr "Обновляемая подписка"
+
+#: public/templates/checkout/recurring-totals.php:21 public/templates/checkout/recurring-totals.php:22
+msgid "Subtotal"
+msgstr "Итого"
+
+#: public/templates/checkout/recurring-totals.php:134 public/templates/checkout/recurring-totals.php:135
+msgid "Recurring Total"
+msgstr "Итого подписка"
+
+#: public/templates/myaccount/related-subscriptions.php:8
+msgid "Related Subscriptions"
+msgstr "Связанные подписки"
+
+#: public/templates/myaccount/related-subscriptions.php:17 public/templates/myaccount/subscriptions.php:28
+#: public/templates/myaccount/view-subscription.php:53
+msgid "Actions"
+msgstr "Действие"
+
+#: public/templates/myaccount/related-subscriptions.php:23 public/templates/myaccount/subscriptions.php:35
+msgid "ID"
+msgstr "ID"
+
+#: public/templates/myaccount/related-subscriptions.php:38 public/templates/myaccount/subscriptions.php:56
+msgid "View"
+msgstr "Вид"
+
+#: public/templates/myaccount/subscription-account-view.php:57
+#, php-format
+msgid "Subscription #%s"
+msgstr "Подписка №%s"
+
+#: public/templates/myaccount/subscriptions.php:16
+msgid "My Subscriptions"
+msgstr "Мои подписки"
+
+#: public/templates/myaccount/subscriptions.php:24
+msgid "Subscription ID"
+msgstr "ID подписки"
+
+#: public/templates/myaccount/subscriptions.php:26
+msgid "Next payment on"
+msgstr "Следующий платеж на %s"
+
+#: public/templates/myaccount/subscriptions.php:67
+#, php-format
+msgid "No subscriptions found. Find your first subscription in the %sstore%s."
+msgstr "Подписки не найдено. Найти ваш первый подписки в %sstore %s."
+
+#: public/templates/myaccount/view-subscription.php:11
+msgid "Invalid Subscription."
+msgstr "Недопустимая Подписка."
+
+#: public/templates/myaccount/view-subscription.php:11
+msgid "My Account"
+msgstr "Мой аккаунт"
+
+#: public/templates/myaccount/view-subscription.php:32
+msgid "Next Payment Date"
+msgstr "Оплачено до"
+
+#: public/templates/myaccount/view-subscription.php:65
+msgid "Subscription Updates"
+msgstr "Обновления Подписки"
+
+#: public/templates/myaccount/view-subscription.php:84
+msgid "Subscription Totals"
+msgstr "Информация о подписке"
+
+#: public/templates/myaccount/view-subscription.php:91
+msgid "Product"
+msgstr "Товар"
+
+#: public/templates/myaccount/view-subscription.php:105
+msgid "Are you sure you want remove this item from your subscription?"
+msgstr "Вы уверены, что хотите удалить этот элемент из подписки?"
+
+#: public/templates/single-product/add-to-cart/subscription.php:52
+msgid "Resubscribe"
+msgstr "Подписка"
+
+#: public/templates/single-product/add-to-cart/subscription.php:54
+msgid "You have an active subscription to this product already."
+msgstr "Я уже слежу за этим товаром."
